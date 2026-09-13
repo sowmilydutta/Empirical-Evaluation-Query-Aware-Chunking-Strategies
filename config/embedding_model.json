@@ -1,0 +1,5 @@
+{
+  "embedding_model": "BAAI/bge-base-en-v1.5",
+  "max_seq_length": 512,
+  "dim": 768
+}

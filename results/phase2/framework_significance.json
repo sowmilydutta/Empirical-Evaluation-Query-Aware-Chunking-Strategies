@@ -1,0 +1,14 @@
+{
+  "factoid_faithfulness_framework_vs_fixed": 0.11735160138956553,
+  "factoid_faithfulness_framework_vs_overlapping": 0.0791807831400356,
+  "factoid_faithfulness_framework_vs_semantic": 0.04539654168942478,
+  "factoid_answer_relevancy_framework_vs_fixed": 0.005385665016640753,
+  "factoid_answer_relevancy_framework_vs_overlapping": 0.01883660831468303,
+  "factoid_answer_relevancy_framework_vs_semantic": 0.012248430316295054,
+  "explanatory_faithfulness_framework_vs_fixed": 0.4149923684423791,
+  "explanatory_faithfulness_framework_vs_overlapping": 0.3069733251250949,
+  "explanatory_faithfulness_framework_vs_semantic": 0.27332167829229814,
+  "explanatory_answer_relevancy_framework_vs_fixed": 0.9244974022821807,
+  "explanatory_answer_relevancy_framework_vs_overlapping": 0.6628830745340233,
+  "explanatory_answer_relevancy_framework_vs_semantic": 0.03569190011680441
+}

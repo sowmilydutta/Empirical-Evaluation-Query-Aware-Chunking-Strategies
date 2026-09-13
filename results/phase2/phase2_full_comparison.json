@@ -1,0 +1,90 @@
+{
+  "framework": {
+    "factoid": {
+      "faithfulness": 0.7028169014084507,
+      "answer_relevancy": 0.57424797240338,
+      "n_questions": 150,
+      "nan_count": 8
+    },
+    "explanatory": {
+      "faithfulness": 0.44160000000000005,
+      "answer_relevancy": 0.4778799888626262,
+      "n_questions": 150,
+      "nan_count": 25
+    }
+  },
+  "baselines": {
+    "fixed": {
+      "squad": {
+        "faithfulness": 0.73125,
+        "answer_relevancy": 0.6027509304252199,
+        "n_questions": 150,
+        "nan_count": 6
+      },
+      "mmlu": {
+        "faithfulness": 0.4199054621848739,
+        "answer_relevancy": 0.48233283709506464,
+        "n_questions": 150,
+        "nan_count": 14
+      }
+    },
+    "overlap": {
+      "squad": {
+        "faithfulness": 0.77625,
+        "answer_relevancy": 0.6116432660419436,
+        "n_questions": 150,
+        "nan_count": 10
+      },
+      "mmlu": {
+        "faithfulness": 0.4548363095238095,
+        "answer_relevancy": 0.48627521823613884,
+        "n_questions": 150,
+        "nan_count": 6
+      }
+    },
+    "semantic": {
+      "squad": {
+        "faithfulness": 0.7688244047619048,
+        "answer_relevancy": 0.6160849200387379,
+        "n_questions": 150,
+        "nan_count": 6
+      },
+      "mmlu": {
+        "faithfulness": 0.45078125,
+        "answer_relevancy": 0.4987508801015224,
+        "n_questions": 150,
+        "nan_count": 22
+      }
+    }
+  },
+  "retrieval": {
+    "recall_factoid": {
+      "framework": {
+        "3": 0.71,
+        "5": 0.744,
+        "10": 0.782
+      },
+      "fixed": {
+        "3": 0.82,
+        "5": 0.862,
+        "10": 0.908
+      },
+      "overlapping": {
+        "3": 0.832,
+        "5": 0.87,
+        "10": 0.914
+      },
+      "semantic": {
+        "3": 0.828,
+        "5": 0.876,
+        "10": 0.914
+      }
+    },
+    "accuracy_explanatory": {
+      "framework": 0.736,
+      "fixed": 0.754,
+      "overlapping": 0.76,
+      "semantic": 0.75
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "note": "MMLU accuracy McNemar",
+  "flags_sum": {
+    "fixed": 377,
+    "overlapping": 379,
+    "semantic": 375
+  }
+}

@@ -1,0 +1,7 @@
+variable,count,mean,median,std,min,max
+SQuAD question (tokens),500,12.3,12,4.0,4,28
+SQuAD context (tokens),2067,159.6,146,71.4,30,789
+SQuAD answer (tokens),500,4.2,3,3.9,1,25
+MMLU question (tokens),500,50.8,18,88.1,4,531
+MMLU article (tokens),546,1667.8,1677,220.0,152,2482
+MMLU answer (tokens),500,8.4,6,6.9,1,45

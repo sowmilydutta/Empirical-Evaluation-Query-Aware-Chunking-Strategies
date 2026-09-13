@@ -1,0 +1,10 @@
+{
+  "chunk_size_tokens": 128,
+  "chunk_overlap_tokens": 32,
+  "tokenizer": "BAAI/bge-base-en-v1.5",
+  "applies_to": [
+    "fixed",
+    "overlapping"
+  ],
+  "note": "semantic chunking size is set by threshold tuning (Phase 3.3), targeted to a comparable average so size is not confounded with strategy"
+}

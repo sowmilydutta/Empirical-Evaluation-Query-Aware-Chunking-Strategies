@@ -1,0 +1,652 @@
+[
+  {
+    "qid": "mmlu_anatomy_0055",
+    "subject": "anatomy",
+    "question": "If the foot is abducted, it is moved in which direction?",
+    "choices": [
+      "Inward",
+      "Outward",
+      "Upward",
+      "Downward"
+    ],
+    "answer_idx": 3,
+    "answer_text": "Downward"
+  },
+  {
+    "qid": "mmlu_anatomy_0090",
+    "subject": "anatomy",
+    "question": "Palatine shelf elevation is due to the effect of",
+    "choices": [
+      "descent of the tongue.",
+      "changes in flexure of the developing brain.",
+      "hydrophilic molecules increasing turgor pressure in the palatine shelves.",
+      "a combination of these three processes."
+    ],
+    "answer_idx": 3,
+    "answer_text": "a combination of these three processes."
+  },
+  {
+    "qid": "mmlu_anatomy_0115",
+    "subject": "anatomy",
+    "question": "Fertilization of an ovum by a spermatozoon occurs in which of the following structures?",
+    "choices": [
+      "Cervix",
+      "Fallopian tube",
+      "Ovary",
+      "Uterus"
+    ],
+    "answer_idx": 1,
+    "answer_text": "Fallopian tube"
+  },
+  {
+    "qid": "mmlu_anatomy_0056",
+    "subject": "anatomy",
+    "question": "The infraorbital nerve",
+    "choices": [
+      "is a terminal branch of the maxillary division of the trigeminal nerve.",
+      "is a terminal branch of the maxillary branch of the facial nerve.",
+      "carries parasympathetic secretomotor neurons to the lacrimal gland.",
+      "innervates the inferior part of the orbicularis oculi muscle."
+    ],
+    "answer_idx": 0,
+    "answer_text": "is a terminal branch of the maxillary division of the trigeminal nerve."
+  },
+  {
+    "qid": "mmlu_astronomy_0085",
+    "subject": "astronomy",
+    "question": "The astronomical unit parsec (pc) plays a crucial role in astronomy. One parsec is equal to about 3.26 light-years. How is one parsec defined in astronomy?",
+    "choices": [
+      "Distance at which one astronomical unit measures one arcsecond from Earth.",
+      "Orbital distance of the solar system around the center of the Milky Way in one year.",
+      "Effective distance of the solar wind (i.e. the radius of the heliosphere).",
+      "Historical distance to the brightest star Sirius."
+    ],
+    "answer_idx": 0,
+    "answer_text": "Distance at which one astronomical unit measures one arcsecond from Earth."
+  },
+  {
+    "qid": "mmlu_astronomy_0037",
+    "subject": "astronomy",
+    "question": "The so-called dark energy is a model to explain ...",
+    "choices": [
+      "the radiation of black holes.",
+      "the mass distribution of galaxies.",
+      "the acceleration of the universe.",
+      "the microwave background of the universe."
+    ],
+    "answer_idx": 2,
+    "answer_text": "the acceleration of the universe."
+  },
+  {
+    "qid": "mmlu_astronomy_0044",
+    "subject": "astronomy",
+    "question": "We were first able to accurately measure the diameter of Pluto from:",
+    "choices": [
+      "a New Horizons flyby in the 1990s",
+      "Hubble Space Telescope images that resolved Pluto's disk",
+      "brightness measurements made during mutual eclipses of Pluto and Charon",
+      "radar observations made by the Arecibo telescope"
+    ],
+    "answer_idx": 2,
+    "answer_text": "brightness measurements made during mutual eclipses of Pluto and Charon"
+  },
+  {
+    "qid": "mmlu_astronomy_0003",
+    "subject": "astronomy",
+    "question": "You’ve made a scientific theory that there is an attractive force between all objects. When will your theory be proven to be correct?",
+    "choices": [
+      "The first time you drop a bowling ball and it falls to the ground proving your hypothesis.",
+      "After you’ve repeated your experiment many times.",
+      "You can never prove your theory to be correct only “yet to be proven wrong”.",
+      "When you and many others have tested the hypothesis."
+    ],
+    "answer_idx": 2,
+    "answer_text": "You can never prove your theory to be correct only “yet to be proven wrong”."
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0126",
+    "subject": "clinical_knowledge",
+    "question": "Our genetic material is made up of:",
+    "choices": [
+      "deoxyribonucleic acid.",
+      "ribonucleic acid.",
+      "dinitronucleic acid.",
+      "protein."
+    ],
+    "answer_idx": 0,
+    "answer_text": "deoxyribonucleic acid."
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0219",
+    "subject": "clinical_knowledge",
+    "question": "Your patient has diabetes. Why is this important?",
+    "choices": [
+      "These patients are more likely to bleed.",
+      "These patients are more likely to get urinary tract infections if their blood sugar is unstable.",
+      "These patients are more likely to have clear urine.",
+      "These patients are less likely to have catheter encrustation."
+    ],
+    "answer_idx": 1,
+    "answer_text": "These patients are more likely to get urinary tract infections if their blood sugar is unstable."
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0057",
+    "subject": "clinical_knowledge",
+    "question": "The cardiac cycle consists of the phases:",
+    "choices": [
+      "systole, diastole, and rest.",
+      "contraction, relaxation, and rest.",
+      "diastole and systole.",
+      "diastole, systole, and contraction."
+    ],
+    "answer_idx": 2,
+    "answer_text": "diastole and systole."
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0021",
+    "subject": "clinical_knowledge",
+    "question": "If a transfusion reaction is suspected, you should:",
+    "choices": [
+      "turn off the transfusion, inform medical staff immediately, and follow transfusion policy advice on dealing with acute transfusion reactions.",
+      "leave the transfusion running and contact the medical staff immediately.",
+      "disconnect and dispose of the blood bag immediately.",
+      "leave the transfusion running and record a set of observations on the patient."
+    ],
+    "answer_idx": 0,
+    "answer_text": "turn off the transfusion, inform medical staff immediately, and follow transfusion policy advice on dealing with acute transfusion reactions."
+  },
+  {
+    "qid": "mmlu_college_biology_0052",
+    "subject": "college_biology",
+    "question": "All of the following statements about plant embryogenesis are correct EXCEPT:",
+    "choices": [
+      "The suspensor is derived from the basal cell.",
+      "Cotyledons are derived from the apical cell.",
+      "Shoot apical meristem formation occurs after seed formation.",
+      "Precursors of all three plant tissue systems are formed during embryogenesis."
+    ],
+    "answer_idx": 2,
+    "answer_text": "Shoot apical meristem formation occurs after seed formation."
+  },
+  {
+    "qid": "mmlu_college_biology_0047",
+    "subject": "college_biology",
+    "question": "Which of the following is the correct anatomical order of structures in the mammalian female reproductive tract?",
+    "choices": [
+      "Oviduct, uterus, rete, vagina",
+      "Oviduct, epididymis, uterus, vagina",
+      "Ovary, oviduct, uterus, vagina",
+      "Ovary, uterus, vagina, rete"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Ovary, oviduct, uterus, vagina"
+  },
+  {
+    "qid": "mmlu_college_biology_0041",
+    "subject": "college_biology",
+    "question": "The following pairs were placed in solution together. Which two could be separated by performing low-speed centrifugation?",
+    "choices": [
+      "DNA and mRNA",
+      "Nuclei and secretory vesicles",
+      "Golgi apparatus and endoplasmic reticulum",
+      "Lysosomes and endosomes"
+    ],
+    "answer_idx": 1,
+    "answer_text": "Nuclei and secretory vesicles"
+  },
+  {
+    "qid": "mmlu_college_biology_0119",
+    "subject": "college_biology",
+    "question": "Gene flow between populations results in",
+    "choices": [
+      "an increase in genetic homogeneity in the metapopulation",
+      "an increase in the rate of deleterious mutations in the metapopulation",
+      "an increased likelihood of speciation",
+      "disruption of Hardy-Weinberg equilibrium in the metapopulation"
+    ],
+    "answer_idx": 0,
+    "answer_text": "an increase in genetic homogeneity in the metapopulation"
+  },
+  {
+    "qid": "mmlu_global_facts_0068",
+    "subject": "global_facts",
+    "question": "As of 2019, about what percentage of Indians say it is necessary to believe in God in order to be moral and have good values?",
+    "choices": [
+      "59%",
+      "69%",
+      "79%",
+      "89%"
+    ],
+    "answer_idx": 2,
+    "answer_text": "79%"
+  },
+  {
+    "qid": "mmlu_global_facts_0070",
+    "subject": "global_facts",
+    "question": "The percentage of children in Ethiopia (age 8) who reported physical punishment by teachers in the past week in 2009 was about what?",
+    "choices": [
+      "18%",
+      "38%",
+      "58%",
+      "78%"
+    ],
+    "answer_idx": 1,
+    "answer_text": "38%"
+  },
+  {
+    "qid": "mmlu_global_facts_0095",
+    "subject": "global_facts",
+    "question": "As of 2017, the share of global deaths by suicide is about",
+    "choices": [
+      "0.70%",
+      "1.40%",
+      "2.80%",
+      "5.60%"
+    ],
+    "answer_idx": 1,
+    "answer_text": "1.40%"
+  },
+  {
+    "qid": "mmlu_global_facts_0023",
+    "subject": "global_facts",
+    "question": "As of 2015, agriculture made up about what percentage of total Indian GDP?",
+    "choices": [
+      "8%",
+      "16%",
+      "32%",
+      "64%"
+    ],
+    "answer_idx": 1,
+    "answer_text": "16%"
+  },
+  {
+    "qid": "mmlu_high_school_biology_0079",
+    "subject": "high_school_biology",
+    "question": "When we say that an individual organism has a greater fitness than another individual, we specifically mean that the organism",
+    "choices": [
+      "lives longer than others of its species.",
+      "competes for resources more successfully than others of its species.",
+      "mates more frequently than others of its species.",
+      "leaves more viable offspring than others of its species."
+    ],
+    "answer_idx": 3,
+    "answer_text": "leaves more viable offspring than others of its species."
+  },
+  {
+    "qid": "mmlu_high_school_biology_0131",
+    "subject": "high_school_biology",
+    "question": "Which describes an African butterfly species that exists in two strikingly different color patterns?",
+    "choices": [
+      "artificial selection",
+      "directional selection",
+      "stabilizing selection",
+      "disruptive selection"
+    ],
+    "answer_idx": 3,
+    "answer_text": "disruptive selection"
+  },
+  {
+    "qid": "mmlu_high_school_biology_0306",
+    "subject": "high_school_biology",
+    "question": "The primary site of glucose reabsorption is the",
+    "choices": [
+      "glomerulus",
+      "proximal convoluted tubule",
+      "loop of Henle",
+      "collecting duct"
+    ],
+    "answer_idx": 1,
+    "answer_text": "proximal convoluted tubule"
+  },
+  {
+    "qid": "mmlu_high_school_geography_0055",
+    "subject": "high_school_geography",
+    "question": "In which zone of Burgess's concentric zone model would one find better houses, single-family homes, and higher-rent apartments?",
+    "choices": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Third"
+  },
+  {
+    "qid": "mmlu_high_school_geography_0034",
+    "subject": "high_school_geography",
+    "question": "Which of the following is LEAST self-sufficient in the natural resources needed for modern industry?",
+    "choices": [
+      "United States",
+      "Japan",
+      "France",
+      "United Kingdom"
+    ],
+    "answer_idx": 1,
+    "answer_text": "Japan"
+  },
+  {
+    "qid": "mmlu_high_school_geography_0094",
+    "subject": "high_school_geography",
+    "question": "A city that is more than twice as large as the next largest city in a country is called a",
+    "choices": [
+      "global city.",
+      "world leader city.",
+      "megalopolis.",
+      "primate city."
+    ],
+    "answer_idx": 3,
+    "answer_text": "primate city."
+  },
+  {
+    "qid": "mmlu_high_school_us_history_0111",
+    "subject": "high_school_us_history",
+    "question": "This question refers to the following information.\n\"We are men; we have souls, we have passions, we have feelings, we have hopes, we have desires, like any other race in the world. The cry is raised all over the world today of Canada for the Canadians, of America for the Americans, of England for the English, of France for the French, of Germany for the Germans—do you think it is unreasonable that we, the Blacks of the world, should raise the cry of Africa for the Africans?\"\n—Marcus Garvey, 1920\nThe passage above presents a position in which of the following ongoing debates in American history?",
+    "choices": [
+      "The debate between interventionism and isolationism in foreign policy.",
+      "The debate between separatism and integration when it came to the place of African Americans in American society.",
+      "The debate between exclusion and inclusion when it came to immigration policy.",
+      "The debate between laissez-faire policies and government intervention in economic affairs."
+    ],
+    "answer_idx": 1,
+    "answer_text": "The debate between separatism and integration when it came to the place of African Americans in American society."
+  },
+  {
+    "qid": "mmlu_high_school_us_history_0073",
+    "subject": "high_school_us_history",
+    "question": "This question refers to the following information.\n\"An act for the more effectual protection of the property of married women:\n\"§1. The real property of any female who may hereafter marry, and which she shall own at the time of marriage, and the rents, issues, and profits thereof, shall not be subject to the sole disposal of her husband, nor be liable for his debts, and shall continue her sole and separate property, as if she were a single female.\n\"§2. The real and personal property, and the rents, issues, and profits thereof, of any female now married, shall not be subject to the disposal of her husband; but shall be her sole and separate property, as if she were a single female, except so far as the same may be liable for the debts of her husband heretofore contracted.\n\"§3. Any married female may take by inheritance, or by gift, grant, devise, or bequest, from any person other than her husband, and hold to her sole and separate use, and convey and devise real and personal property, and any interest or estate therein, and the rents, issues, and profits thereof, in the same manner and with like effect as if she were unmarried, and the same shall not be subject to the disposal of her husband nor be liable for his debts.\"\n—Married Women's Property Act, New York State (1848)\nWhich of the following groups would be most likely to support the perspective of the Married Women's Property Act?",
+    "choices": [
+      "Participants in the Seneca Falls Convention.",
+      "Southern supporters of the concept of \"female virtue.\"",
+      "Proponents of the \"cult of domesticity\" value system.",
+      "Congregational ministers."
+    ],
+    "answer_idx": 0,
+    "answer_text": "Participants in the Seneca Falls Convention."
+  },
+  {
+    "qid": "mmlu_high_school_us_history_0197",
+    "subject": "high_school_us_history",
+    "question": "This question refers to the following information.\n\"If you analyze it I believe the very heart and soul of conservatism is libertarianism. I think conservatism is really a misnomer just as liberalism is a misnomer for the liberals—if we were back in the days of the Revolution, so-called conservatives today would be the Liberals and the liberals would be the Tories. The basis of conservatism is a desire for less government interference or less centralized authority or more individual freedom and this is a pretty general description also of what libertarianism is. Now, I can't say that I will agree with all the things that the present group who call themselves Libertarians in the sense of a party say, because I think that like in any political movement there are shades, and there are libertarians who are almost over at the point of wanting no government at all or anarchy. I believe there are legitimate government functions. There is a legitimate need in an orderly society for some government to maintain freedom or we will have tyranny by individuals. The strongest man on the block will run the neighborhood. We have government to ensure that we don't each one of us have to carry a club to defend ourselves. But again, I stand on my statement that I think that libertarianism and conservatism are traveling the same path.\"\nRonald Reagan, Interview published in Reason magazine, 1975\nAll of the following are factors that contributed to the prominence of conservatism in the late 1970s and 1980s EXCEPT",
+    "choices": [
+      "the success of the Libertarian party in national elections",
+      "the growth of religious fundamentalism",
+      "perceived economic and foreign policy failures under President Carter",
+      "social changes following the Civil Rights movement and Vietnam War"
+    ],
+    "answer_idx": 0,
+    "answer_text": "the success of the Libertarian party in national elections"
+  },
+  {
+    "qid": "mmlu_high_school_world_history_0093",
+    "subject": "high_school_world_history",
+    "question": "This question refers to the following information.\n\"When the Portuguese go from Macao in China to Japan, they carry much white silk, gold, musk, and porcelain: and they bring from Japan nothing but silver. They have a great carrack which goes there every year and she brings from there every year about six hundred coins: and all this silver of Japan, and two hundred thousand coins more in silver which they bring yearly out of India, they employ to their great advantage in China: and they bring from there gold, musk, silk, copper, porcelains, and many other things very costly and gilded.\nWhen the Portuguese come to Canton in China to traffic, they must remain there but certain days: and when they come in at the gate of the city, they must enter their names in a book, and when they go out at night they must put out their names. They may not lie in the town all night, but must lie in their boats outside of the town. And, their time expired, if any man remains there, he is imprisoned.\"\nRalph Fitch, an account of his travels to the Far East, 1599 C.E.\nWhich of the following developments from the period 1750–1900 C.E. most directly undid the trade patterns mentioned in the first paragraph?",
+    "choices": [
+      "The discovery of certain goods that the Chinese were interested in purchasing from European merchants",
+      "Enlightenment revolutions in Europe and the Americas",
+      "The Industrial Revolution",
+      "The colonization of Africa"
+    ],
+    "answer_idx": 0,
+    "answer_text": "The discovery of certain goods that the Chinese were interested in purchasing from European merchants"
+  },
+  {
+    "qid": "mmlu_high_school_world_history_0218",
+    "subject": "high_school_world_history",
+    "question": "This question refers to the following information.\n\"Our constitution does not copy the laws of neighboring states; we are rather a pattern to others than imitators ourselves. Its administration favors the many instead of the few; this is why it is called a democracy. If we look to the laws, they afford equal justice to all in their private differences; if no social standing, advancement in public life falls to reputation for capacity, class considerations not being allowed to interfere with merit; nor again does poverty bar the way, if a man is able to serve the state, he is not hindered by the obscurity of his condition. The freedom which we enjoy in our government extends also to our ordinary life. There, far from exercising a jealous surveillance over each other, we do not feel called upon to be angry with our neighbor for doing what he likes, or even to indulge in those injurious looks which cannot fail to be offensive, although they inflict no positive penalty. But all this ease in our private relations does not make us lawless as citizens. Against this fear is our chief safeguard, teaching us to obey the magistrates and the laws, particularly such as regard the protection of the injured, whether they are actually on the statute book, or belong to that code which, although unwritten, yet cannot be broken without acknowledged disgrace.\"\nThucydides, History of the Peloponnesian War, ca. 415 B.C.E.\nWhich of the following correctly describes one of the primary reasons that Greek culture was disseminated widely around the Mediterranean region during the time period represented by the passage?",
+    "choices": [
+      "The geography of Greece contains many natural resources that facilitated a profitable mining industry.",
+      "The geography of Greece contains numerous freshwater lakes that facilitated a successful fishing industry.",
+      "The geography of Greece contains prominent river valleys that facilitated widespread agriculture.",
+      "The geography of Greece contains many natural harbors that facilitated trade and commerce."
+    ],
+    "answer_idx": 3,
+    "answer_text": "The geography of Greece contains many natural harbors that facilitated trade and commerce."
+  },
+  {
+    "qid": "mmlu_high_school_world_history_0085",
+    "subject": "high_school_world_history",
+    "question": "This question refers to the following information.\nEvery two months His Majesty sends from Lima 60,000 pesos to pay for the mita of the Indians. Up on the Huanacavelica range there are 3,000 or 4,000 Indians working in the mercury mine, with picks and hammers, breaking up the ore. And when they have filled up their little sacks, the poor fellows, loaded down, climb up those ladders and rigging, so distressing that a man can hardly get up them. That is the way they work in this mine, with many lights and the loud noise of the pounding and great confusion. Nor is that the greatest evil; that is due to thievish and undisciplined superintendents. According to His Majesty's warrant, the mine owners at Potosí have a right to the mita of 13,300 Indians. These mita Indians earn each day 4 reals. Besides these there are others not under obligation, who hire themselves out voluntarily: these each get from 12 to 16 reals, and some up to 24, according to how well they wield their picks or their reputation for knowing how to get the ore out.\nAntonio Vasquez de Espinosa, report on mining in Huanacavelica and Potosí, 1620s\nThe third principal reason the local Yakut and Tungus natives are ruined is that from the time they first came under Russian control, they have been forced to pay yasak tribute. Some have paid in sables, others in red foxes, still others in cash. At first there were plenty of furbearing animals there, but now there are no sables and not many foxes in those lands, from the shores of the Arctic Ocean all the way south to the great Lena River. Moreover, almost half the natives cannot hunt because they no longer have horses, many of which have been pawned to the yasak collectors.\nHeinrich von Füch, \"On the Treatment of Natives in Northeast Siberia,\" 1744\nBoth passages are best seen in the context of which of the following broad developments?",
+    "choices": [
+      "Emerging systems of coerced labor",
+      "The expansion of chattel slavery",
+      "Increased reliance on prison-camp workforces",
+      "Colonization of overseas territories by joint-stock companies"
+    ],
+    "answer_idx": 0,
+    "answer_text": "Emerging systems of coerced labor"
+  },
+  {
+    "qid": "mmlu_jurisprudence_0045",
+    "subject": "jurisprudence",
+    "question": "Why does communitarianism resemble Aristotle's philosophy more than Kant's?",
+    "choices": [
+      "Because Aristotle justified slavery.",
+      "Because Kant failed to distinguish individual from social morality?",
+      "Because Aristotle believed that man is a 'social animal'",
+      "Because Kant regarded the individual as unimportant."
+    ],
+    "answer_idx": 2,
+    "answer_text": "Because Aristotle believed that man is a 'social animal'"
+  },
+  {
+    "qid": "mmlu_jurisprudence_0028",
+    "subject": "jurisprudence",
+    "question": "Which statement best describes the nature and function of Kelsen's Grundnorm?",
+    "choices": [
+      "The ultimate source of a legal system's morality.",
+      "The rule that distinguishes norms from habits of obedience.",
+      "The constitution of a state.",
+      "A presupposition that facilitates our understanding of the legal system."
+    ],
+    "answer_idx": 3,
+    "answer_text": "A presupposition that facilitates our understanding of the legal system."
+  },
+  {
+    "qid": "mmlu_jurisprudence_0037",
+    "subject": "jurisprudence",
+    "question": "Which of the following purposes does the 'internal point of view' play in Hart's concept of law?",
+    "choices": [
+      "It distinguishes social rules from mere group habits.",
+      "It defines the judicial function.",
+      "It illustrates the authority of the legislature.",
+      "It stresses the relationship between law and justice."
+    ],
+    "answer_idx": 0,
+    "answer_text": "It distinguishes social rules from mere group habits."
+  },
+  {
+    "qid": "mmlu_medical_genetics_0037",
+    "subject": "medical_genetics",
+    "question": "A homeotic mutation is one which",
+    "choices": [
+      "is present in only one form in an individual",
+      "substitutes one body part for another in development",
+      "results in development of a tumor",
+      "is wild type at one temperature and abnormal at another"
+    ],
+    "answer_idx": 1,
+    "answer_text": "substitutes one body part for another in development"
+  },
+  {
+    "qid": "mmlu_medical_genetics_0068",
+    "subject": "medical_genetics",
+    "question": "The most common chromosome abnormality in first trimester spontaneous miscarriages is:",
+    "choices": [
+      "trisomy.",
+      "monosomy.",
+      "triploidy.",
+      "tetrasomy."
+    ],
+    "answer_idx": 0,
+    "answer_text": "trisomy."
+  },
+  {
+    "qid": "mmlu_medical_genetics_0076",
+    "subject": "medical_genetics",
+    "question": "Which of the following conditions is caused by a trinucleotide (triplet) repeat expansion?",
+    "choices": [
+      "Cystic fibrosis",
+      "Duchenne muscular dystrophy",
+      "Huntington disease",
+      "Osteogenesis imperfecta"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Huntington disease"
+  },
+  {
+    "qid": "mmlu_nutrition_0003",
+    "subject": "nutrition",
+    "question": "What are the main causes of the obesity epidemic?\n",
+    "choices": [
+      "Increased energy quantity/density and a more sedentary life-style",
+      "Decreased leisure time activity",
+      "Changes in genetic profiles",
+      "None of the options given is correct"
+    ],
+    "answer_idx": 0,
+    "answer_text": "Increased energy quantity/density and a more sedentary life-style"
+  },
+  {
+    "qid": "mmlu_nutrition_0004",
+    "subject": "nutrition",
+    "question": "Which vitamin is a major lipid-soluble antioxidant in cell membranes?\n",
+    "choices": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin K"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Vitamin E"
+  },
+  {
+    "qid": "mmlu_nutrition_0232",
+    "subject": "nutrition",
+    "question": "Infants born to mothers who are vegan may be at increased risk of deficiency of which nutrient?\n",
+    "choices": [
+      "Vitamin C",
+      "Folate",
+      "Vitamin B12",
+      "Calcium"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Vitamin B12"
+  },
+  {
+    "qid": "mmlu_prehistory_0109",
+    "subject": "prehistory",
+    "question": "The New World, “discovered” by Christopher Columbus, was filled with approximately how many people?",
+    "choices": [
+      "100,000",
+      "500,000",
+      "1,000,000",
+      "tens of millions"
+    ],
+    "answer_idx": 3,
+    "answer_text": "tens of millions"
+  },
+  {
+    "qid": "mmlu_prehistory_0040",
+    "subject": "prehistory",
+    "question": "The above hominid species discovered in Malapa Cave in South Africa has been classified as:",
+    "choices": [
+      "Homo habilis",
+      "Australopithecus sediba.",
+      "Homo sapiens.",
+      "Australopithecus robustus"
+    ],
+    "answer_idx": 1,
+    "answer_text": "Australopithecus sediba."
+  },
+  {
+    "qid": "mmlu_prehistory_0005",
+    "subject": "prehistory",
+    "question": "The Hopewell were complex rank societies, but they were not a state. Hopewell culture lacked all of the following elements EXCEPT:",
+    "choices": [
+      "formal government",
+      "monumental earthworks",
+      "urban centers",
+      "a permanent military"
+    ],
+    "answer_idx": 1,
+    "answer_text": "monumental earthworks"
+  },
+  {
+    "qid": "mmlu_sociology_0161",
+    "subject": "sociology",
+    "question": "Children who are still sucking their thumbs when they enter kindergarten are often subject to teasing and ridicule for this behavior. What type of social sanction is applied in this instance?",
+    "choices": [
+      "Formal positive sanction",
+      "Formal negative sanction",
+      "Informal positive sanction",
+      "Informal negative sanction"
+    ],
+    "answer_idx": 3,
+    "answer_text": "Informal negative sanction"
+  },
+  {
+    "qid": "mmlu_sociology_0181",
+    "subject": "sociology",
+    "question": "Freud's notion of the 'ego' referred to:",
+    "choices": [
+      "the unconscious mass of instinctive drives that may be repressed",
+      "the self as a whole: an unstable mix of conscious and unconscious elements",
+      "the conscious part of the mind that regulates emotional drives on a practical, rational level",
+      "the neurotic part of the mind that longs for belonging and may suffer an inferiority complex"
+    ],
+    "answer_idx": 2,
+    "answer_text": "the conscious part of the mind that regulates emotional drives on a practical, rational level"
+  },
+  {
+    "qid": "mmlu_sociology_0175",
+    "subject": "sociology",
+    "question": "Industrial production in the nineteenth century was characterized by:",
+    "choices": [
+      "increasing numbers of women in high status positions",
+      "cottage industries and homeworkers doing piecework in the domestic sphere",
+      "the 'managerial revolution' by which ownership and control became separate",
+      "power-driven machinery and the concentration of workers in large workplaces"
+    ],
+    "answer_idx": 3,
+    "answer_text": "power-driven machinery and the concentration of workers in large workplaces"
+  },
+  {
+    "qid": "mmlu_world_religions_0095",
+    "subject": "world_religions",
+    "question": "Why is Mahavira a significant person in the Jaina traditions?",
+    "choices": [
+      "He is the last of the ascetic prophets.",
+      "He is the first of the ascetic prophets",
+      "He is the most learned of the ascetic prophets",
+      "He is the most holy of the ascetic prophets"
+    ],
+    "answer_idx": 0,
+    "answer_text": "He is the last of the ascetic prophets."
+  },
+  {
+    "qid": "mmlu_world_religions_0044",
+    "subject": "world_religions",
+    "question": " According to Jaina traditions, who were the caityavasis?",
+    "choices": [
+      "Householders who supported renouncers",
+      "Orthodox interpreters of the scriptures",
+      "Women ascetics who lived in communities",
+      "Temple-dwelling renouncers"
+    ],
+    "answer_idx": 3,
+    "answer_text": "Temple-dwelling renouncers"
+  },
+  {
+    "qid": "mmlu_world_religions_0036",
+    "subject": "world_religions",
+    "question": " According to Hindu tradition, who is considered to be the ideal wife?",
+    "choices": [
+      "Sita",
+      "Rama",
+      "Kali",
+      "Durga"
+    ],
+    "answer_idx": 0,
+    "answer_text": "Sita"
+  }
+]

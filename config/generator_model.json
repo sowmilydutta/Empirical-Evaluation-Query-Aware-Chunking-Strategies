@@ -1,0 +1,5 @@
+{
+  "generator_model": "microsoft/Phi-4-mini-instruct",
+  "precision": "fp16",
+  "decoding": "greedy"
+}

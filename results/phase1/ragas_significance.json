@@ -1,0 +1,14 @@
+{
+  "squad_faithfulness_fixed_vs_overlapping": 0.30085927027271075,
+  "squad_faithfulness_fixed_vs_semantic": 0.15067994897631096,
+  "squad_faithfulness_overlapping_vs_semantic": 0.5104170577011558,
+  "squad_answer_relevancy_fixed_vs_overlapping": 0.4765380061620308,
+  "squad_answer_relevancy_fixed_vs_semantic": 0.2023295305836348,
+  "squad_answer_relevancy_overlapping_vs_semantic": 0.7128134714257682,
+  "mmlu_faithfulness_fixed_vs_overlapping": 0.21493395572813123,
+  "mmlu_faithfulness_fixed_vs_semantic": 0.24680776511011393,
+  "mmlu_faithfulness_overlapping_vs_semantic": 0.7516063674351836,
+  "mmlu_answer_relevancy_fixed_vs_overlapping": 0.654116523261359,
+  "mmlu_answer_relevancy_fixed_vs_semantic": 0.5351895385499816,
+  "mmlu_answer_relevancy_overlapping_vs_semantic": 0.19282924915674537
+}

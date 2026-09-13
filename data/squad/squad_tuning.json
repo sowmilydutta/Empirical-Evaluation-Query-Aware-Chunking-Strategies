@@ -1,0 +1,557 @@
+[
+  {
+    "qid": "56de0ffd4396321400ee258f",
+    "question": "Who ruined Roussel de Bailleul's plans for an independent state?",
+    "doc_id": "squad_00115",
+    "answers": [
+      "Alexius Komnenos",
+      "Alexius Komnenos",
+      "Alexius Komnenos"
+    ],
+    "answer_start": 522
+  },
+  {
+    "qid": "5725be0f271a42140099d11a",
+    "question": "When did it retract to a inland formation?",
+    "doc_id": "squad_00786",
+    "answers": [
+      "It expanded again during the Middle Miocene, then retracted to a mostly inland formation at the last glacial maximum.",
+      "Middle Miocene",
+      "at the last glacial maximum"
+    ],
+    "answer_start": 441
+  },
+  {
+    "qid": "57332562d058e614000b5733",
+    "question": "In what year did Warszowa become the official capital of the Masovian Duchy?",
+    "doc_id": "squad_00076",
+    "answers": [
+      "1413",
+      "1413",
+      "1413"
+    ],
+    "answer_start": 536
+  },
+  {
+    "qid": "57265a58dd62a815002e8272",
+    "question": "Mazda, Mitsubishi and Isuzu joined partnership with which American car company?",
+    "doc_id": "squad_00683",
+    "answers": [
+      "Ford, Chrysler, and GM",
+      "Ford, Chrysler, and GM",
+      "Ford, Chrysler, and GM, respectively",
+      "Ford",
+      "Ford, Chrysler, and GM"
+    ],
+    "answer_start": 309
+  },
+  {
+    "qid": "5726710b708984140094c61e",
+    "question": "how many permanent objects are located there?",
+    "doc_id": "squad_00989",
+    "answers": [
+      "a permanent collection of over 4.5 million objects.",
+      "over 4.5 million objects",
+      "over 4.5 million",
+      "4.5 million"
+    ],
+    "answer_start": 140
+  },
+  {
+    "qid": "57274f07708984140094dbf0",
+    "question": "What night did ABC move Ugly Betty to in an attempt to boost the series ratings?",
+    "doc_id": "squad_01104",
+    "answers": [
+      "Wednesdays",
+      "Wednesdays",
+      "Wednesdays"
+    ],
+    "answer_start": 383
+  },
+  {
+    "qid": "57309adb396df919000961fd",
+    "question": "What is the oldest Methodist church in continuous use in the United States?",
+    "doc_id": "squad_01930",
+    "answers": [
+      "St. George's United Methodist Church",
+      "St. George's United Methodist Church",
+      "St. George's United Methodist Church"
+    ],
+    "answer_start": 0
+  },
+  {
+    "qid": "572fd73e947a6a140053cd32",
+    "question": "What enables the Scottish Parliament to scrutinize the government?",
+    "doc_id": "squad_01839",
+    "answers": [
+      "Several procedures",
+      "Several procedures",
+      "Several procedures"
+    ],
+    "answer_start": 0
+  },
+  {
+    "qid": "57338160d058e614000b5bfc",
+    "question": "What does the City Council divide itself into?",
+    "doc_id": "squad_00097",
+    "answers": [
+      "committees",
+      "committees",
+      "committees"
+    ],
+    "answer_start": 239
+  },
+  {
+    "qid": "5726ddf6f1498d1400e8ee08",
+    "question": "Who wrote about the distillation of drinking water from sea water?",
+    "doc_id": "squad_01205",
+    "answers": [
+      "Al-Muwaffaq",
+      "Al-Muwaffaq",
+      "Al-Muwaffaq"
+    ],
+    "answer_start": 1570
+  },
+  {
+    "qid": "5730d473b7151e1900c0155c",
+    "question": "How many years do Elders serve as provisional Elders prior to their ordination?",
+    "doc_id": "squad_01965",
+    "answers": [
+      "2–3 years",
+      "2–3 years as provisional Elders prior to their ordination.",
+      "2–3 years"
+    ],
+    "answer_start": 570
+  },
+  {
+    "qid": "570961aa200fba1400367f15",
+    "question": "Who was the chief executive officer when the service began?",
+    "doc_id": "squad_00490",
+    "answers": [
+      "Sam Chisholm",
+      "Sam Chisholm",
+      "Sam Chisholm and Rupert Murdoch"
+    ],
+    "answer_start": 97
+  },
+  {
+    "qid": "5725cf3238643c19005acd65",
+    "question": "Who discovered this and where did they come from?",
+    "doc_id": "squad_00792",
+    "answers": [
+      "Michael Heckenberger and colleagues of the University of Florida",
+      "Michael Heckenberger and colleagues of the University of Florida",
+      "Michael Heckenberger and colleagues of the University of Florida"
+    ],
+    "answer_start": 577
+  },
+  {
+    "qid": "56d703d10d65d214001982d7",
+    "question": "What injury did Thomas Davis suffer during the playoff games?",
+    "doc_id": "squad_00017",
+    "answers": [
+      "broken arm",
+      "a broken arm",
+      "broken arm"
+    ],
+    "answer_start": 145
+  },
+  {
+    "qid": "57300137b2c2fd1400568717",
+    "question": "Who was an important early figure in the Islamic revival in India?",
+    "doc_id": "squad_01858",
+    "answers": [
+      "Sayyid Abul Ala Maududi",
+      "Sayyid Abul Ala Maududi",
+      "Sayyid Abul Ala Maududi"
+    ],
+    "answer_start": 0
+  },
+  {
+    "qid": "57269e3bf1498d1400e8e518",
+    "question": "How long did Ms Kucukdeveci work for Swedex Gmbh & Co KG before she was dismissed?",
+    "doc_id": "squad_00761",
+    "answers": [
+      "10 years",
+      "10 years",
+      "10 years"
+    ],
+    "answer_start": 1506
+  },
+  {
+    "qid": "5726ea06dd62a815002e950e",
+    "question": "Noble acquired a loan from what entity to keep ABC solvent in 1951?",
+    "doc_id": "squad_01065",
+    "answers": [
+      "Prudential Insurance Company of America",
+      "Prudential Insurance Company of America",
+      "Prudential Insurance Company of America."
+    ],
+    "answer_start": 778
+  },
+  {
+    "qid": "5726cc11dd62a815002e908a",
+    "question": "Who produced the illumination for the 1524 Charter that is in the V&A library archive?",
+    "doc_id": "squad_01015",
+    "answers": [
+      "Lucas Horenbout",
+      "Lucas Horenbout",
+      "Lucas Horenbout"
+    ],
+    "answer_start": 380
+  },
+  {
+    "qid": "56f84760aef2371900625f84",
+    "question": "What group was responsible for causing more violence in Wittenberg?",
+    "doc_id": "squad_00380",
+    "answers": [
+      "Zwickau prophets",
+      "Zwickau prophets",
+      "Augustinian friars"
+    ],
+    "answer_start": 765
+  },
+  {
+    "qid": "56d204ade7d4791d00902604",
+    "question": "How many tackles did Von Miller get during the game?",
+    "doc_id": "squad_00002",
+    "answers": [
+      "5",
+      "five",
+      "five"
+    ],
+    "answer_start": 45
+  },
+  {
+    "qid": "57300888b2c2fd1400568776",
+    "question": "What did the number of legions in Roman times depend on?",
+    "doc_id": "squad_01801",
+    "answers": [
+      "threat of war",
+      "whether a state or threat of war existed",
+      "whether a state or threat of war existed"
+    ],
+    "answer_start": 152
+  },
+  {
+    "qid": "57268527708984140094c8c1",
+    "question": "James Hutton published a 2 volume version of his theories in what year?",
+    "doc_id": "squad_00933",
+    "answers": [
+      "1795",
+      "1795",
+      "1795"
+    ],
+    "answer_start": 481
+  },
+  {
+    "qid": "572920d73f37b31900478057",
+    "question": "What is the age range of most prostitutes in Kenya?",
+    "doc_id": "squad_01629",
+    "answers": [
+      "9–18.",
+      "9–18",
+      "9–18"
+    ],
+    "answer_start": 264
+  },
+  {
+    "qid": "57269cc3dd62a815002e8b13",
+    "question": "How many paid holiday days does the Working Time directive require workers to have each year?",
+    "doc_id": "squad_00760",
+    "answers": [
+      "4 weeks",
+      "4 weeks paid holidays each year",
+      "4 weeks paid"
+    ],
+    "answer_start": 594
+  },
+  {
+    "qid": "5726a2445951b619008f7865",
+    "question": "Who designed the plaster work in the Art Library?",
+    "doc_id": "squad_01000",
+    "answers": [
+      "Reuben Townroe",
+      "Reuben Townroe",
+      "Reuben Townroe"
+    ],
+    "answer_start": 912
+  },
+  {
+    "qid": "5726534d708984140094c270",
+    "question": "What is septicemia? ",
+    "doc_id": "squad_00904",
+    "answers": [
+      "(a type of \"blood poisoning\"",
+      "a type of \"blood poisoning\"",
+      "a type of \"blood poisoning\""
+    ],
+    "answer_start": 1103
+  },
+  {
+    "qid": "5727cc15ff5b5019007d9576",
+    "question": "Where is Harvard stadium located?",
+    "doc_id": "squad_01360",
+    "answers": [
+      "Allston",
+      "Allston",
+      "on a 358-acre (145 ha) campus"
+    ],
+    "answer_start": 181
+  },
+  {
+    "qid": "573383d0d058e614000b5c39",
+    "question": "What did the license to build this type of car expire in 2011?",
+    "doc_id": "squad_00101",
+    "answers": [
+      "Chevrolet Aveo",
+      "Aveo",
+      "Aveo"
+    ],
+    "answer_start": 649
+  },
+  {
+    "qid": "56e19557e3433e1400422fee",
+    "question": "What kind of graph is an example of an input used in a decision problem?",
+    "doc_id": "squad_00247",
+    "answers": [
+      "arbitrary graph",
+      "arbitrary",
+      "arbitrary"
+    ],
+    "answer_start": 67
+  },
+  {
+    "qid": "56d6ef6a0d65d21400198260",
+    "question": "Prior to this consideration, when did San Francisco last host a Super Bowl?",
+    "doc_id": "squad_00006",
+    "answers": [
+      "1985",
+      "1985",
+      "1985"
+    ],
+    "answer_start": 309
+  },
+  {
+    "qid": "56e1c7e2cd28a01900c67b76",
+    "question": "Within what variable is L constrained according to the space hierarchy theorem?",
+    "doc_id": "squad_00268",
+    "answers": [
+      "PSPACE",
+      "PSPACE",
+      "PSPACE"
+    ],
+    "answer_start": 268
+  },
+  {
+    "qid": "56f88eafaef2371900626194",
+    "question": "What point did the theologians differ on concerning the Last Supper?",
+    "doc_id": "squad_00415",
+    "answers": [
+      "words spoken by Jesus",
+      "significance of the words spoken by Jesus",
+      "words spoken"
+    ],
+    "answer_start": 127
+  },
+  {
+    "qid": "56d9a199dc89441400fdb649",
+    "question": "What was the age difference between Newton and Manning in Super Bowl 50?",
+    "doc_id": "squad_00019",
+    "answers": [
+      "13 years and 48 days",
+      "13 years and 48 days",
+      "13 years and 48 days"
+    ],
+    "answer_start": 443
+  },
+  {
+    "qid": "57269aa65951b619008f77ac",
+    "question": "During what year were citizens or corporations said to not be able to bring claims against other non state parties?",
+    "doc_id": "squad_00758",
+    "answers": [
+      "1986",
+      "1986",
+      "1986"
+    ],
+    "answer_start": 688
+  },
+  {
+    "qid": "57267d52708984140094c7d9",
+    "question": "What type of geologists give information about strain within the crystalline structure of the rocks?",
+    "doc_id": "squad_00928",
+    "answers": [
+      "Structural geologists",
+      "Structural",
+      "Structural"
+    ],
+    "answer_start": 0
+  },
+  {
+    "qid": "570d4e6cb3d812140066d670",
+    "question": "Who is the current Premier of Victoria?",
+    "doc_id": "squad_00527",
+    "answers": [
+      "Daniel Andrews",
+      "Daniel Andrews",
+      "Daniel Andrews"
+    ],
+    "answer_start": 515
+  },
+  {
+    "qid": "57287b4a4b864d1900164a29",
+    "question": "What did Polo call the Yuan capital?",
+    "doc_id": "squad_01569",
+    "answers": [
+      "Cambaluc",
+      "Cambaluc",
+      "Cambaluc"
+    ],
+    "answer_start": 177
+  },
+  {
+    "qid": "572943ab1d0469140077921b",
+    "question": "When did Barton and Whitfield demand climate research records?",
+    "doc_id": "squad_01661",
+    "answers": [
+      "23 June 2005",
+      "23 June 2005",
+      "23 June 2005"
+    ],
+    "answer_start": 3
+  },
+  {
+    "qid": "56f8507fa6d7ea1400e1754c",
+    "question": "What were the protesters doing with Christ's counsel?",
+    "doc_id": "squad_00386",
+    "answers": [
+      "ignoring Christ's counsel",
+      "ignoring",
+      "ignoring"
+    ],
+    "answer_start": 152
+  },
+  {
+    "qid": "57332442d058e614000b5721",
+    "question": "What does Warszawa mean in Polish?",
+    "doc_id": "squad_00075",
+    "answers": [
+      "belonging to Warsz",
+      "belonging to Warsz",
+      "belonging to Warsz"
+    ],
+    "answer_start": 133
+  },
+  {
+    "qid": "57113c6da58dae1900cd6d35",
+    "question": "Who described a steam turbine in 1629?",
+    "doc_id": "squad_00582",
+    "answers": [
+      "Giovanni Branca",
+      "Giovanni Branca",
+      "Giovanni Branca",
+      "Giovanni Branca"
+    ],
+    "answer_start": 458
+  },
+  {
+    "qid": "572ffb02b2c2fd14005686b9",
+    "question": "What time did a river system develop in the Upper Rhine Graben?",
+    "doc_id": "squad_01789",
+    "answers": [
+      "Miocene",
+      "By the time of the Miocene",
+      "time of the Miocene"
+    ],
+    "answer_start": 306
+  },
+  {
+    "qid": "56e7586d37bdd419002c3eb3",
+    "question": "How common was the form of corporal punishment in the past?",
+    "doc_id": "squad_00304",
+    "answers": [
+      "one of the most common",
+      "one of the most common",
+      "most common",
+      "most common"
+    ],
+    "answer_start": 141
+  },
+  {
+    "qid": "5726caaaf1498d1400e8eb5f",
+    "question": "Why was NBC unable to broadcast the coronation of Queen Elizabeth II?",
+    "doc_id": "squad_01058",
+    "answers": [
+      "flight delays",
+      "technical problems and flight delays",
+      "technical problems and flight delays"
+    ],
+    "answer_start": 517
+  },
+  {
+    "qid": "57274f49f1498d1400e8f621",
+    "question": "In what city is Rangi Ruru Girls' School?",
+    "doc_id": "squad_01338",
+    "answers": [
+      "Christchurch",
+      "Christchurch",
+      "Christchurch"
+    ],
+    "answer_start": 487
+  },
+  {
+    "qid": "5726378238643c19005ad315",
+    "question": "What was suggested at the Symposium in 1967",
+    "doc_id": "squad_00869",
+    "answers": [
+      "suggested it for use in the ARPANET",
+      "use in the ARPANET",
+      "use in the ARPANET"
+    ],
+    "answer_start": 531
+  },
+  {
+    "qid": "5727ef664b864d1900164062",
+    "question": "What can work to even the distribution of wealth?",
+    "doc_id": "squad_01407",
+    "answers": [
+      "social spending",
+      "social spending",
+      "steeper tax progressivity applied to social spending"
+    ],
+    "answer_start": 502
+  },
+  {
+    "qid": "572ff4ca04bcaa1900d76f26",
+    "question": "What does the Rhine merge with outside of Germany?",
+    "doc_id": "squad_01780",
+    "answers": [
+      "Meuse",
+      "Meuse",
+      "Meuse"
+    ],
+    "answer_start": 287
+  },
+  {
+    "qid": "56d9992fdc89441400fdb59f",
+    "question": "Who was the Panthers' tackle leader for 2015?",
+    "doc_id": "squad_00011",
+    "answers": [
+      "Luke Kuechly.",
+      "Luke Kuechly",
+      "Short"
+    ],
+    "answer_start": 666
+  },
+  {
+    "qid": "56e08f4a231d4119001ac2ba",
+    "question": "what did tesla note the hazards of working with? ",
+    "doc_id": "squad_00179",
+    "answers": [
+      "his circuit and single-node X-ray-producing devices",
+      "X-ray-producing devices",
+      "circuit and single-node X-ray-producing devices"
+    ],
+    "answer_start": 40
+  }
+]

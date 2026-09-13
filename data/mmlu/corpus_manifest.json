@@ -1,0 +1,8 @@
+{
+  "source": "English Wikipedia via MediaWiki API",
+  "built_from": "mmlu eval + tuning questions",
+  "results_per_question": 2,
+  "char_cap": 8000,
+  "documents": 546,
+  "created": "2026-08-22T14:30:16"
+}

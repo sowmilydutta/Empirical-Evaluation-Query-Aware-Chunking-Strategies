@@ -1,0 +1,1952 @@
+[
+  {
+    "qid": "mmlu_anatomy_0023",
+    "subject": "anatomy",
+    "question": "Gastrulation is the process of",
+    "choices": [
+      "mesoderm formation and occurs after neurulation.",
+      "ectomesenchyme formation and occurs before neurulation.",
+      "mesoderm formation and occurs before neurulation.",
+      "ectomesenchyme formation and occurs after neurulation."
+    ],
+    "answer_idx": 1,
+    "answer_text": "ectomesenchyme formation and occurs before neurulation."
+  },
+  {
+    "qid": "mmlu_anatomy_0063",
+    "subject": "anatomy",
+    "question": "Blood flows from the right ventricle of the heart into which of the following structures?",
+    "choices": [
+      "Inferior vena cava",
+      "Left ventricle",
+      "Pulmonary arteries",
+      "Pulmonary veins"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Pulmonary arteries"
+  },
+  {
+    "qid": "mmlu_anatomy_0133",
+    "subject": "anatomy",
+    "question": "In men, specimens for gonococcal cultures are most commonly obtained from which of the following structures?",
+    "choices": [
+      "Anus",
+      "Bladder",
+      "Urethra",
+      "Testicle"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Urethra"
+  },
+  {
+    "qid": "mmlu_anatomy_0009",
+    "subject": "anatomy",
+    "question": "Primary motor cortex activity results in",
+    "choices": [
+      "bilateral contraction of antigravity limb muscles.",
+      "bilateral contraction of limb musculature.",
+      "contraction of ipsilateral limb musculature.",
+      "contraction of contralateral limb musculature."
+    ],
+    "answer_idx": 3,
+    "answer_text": "contraction of contralateral limb musculature."
+  },
+  {
+    "qid": "mmlu_anatomy_0128",
+    "subject": "anatomy",
+    "question": "Saliva contains an enzyme that acts upon which of the following nutrients?",
+    "choices": [
+      "Starches",
+      "Proteins",
+      "Fats",
+      "Minerals"
+    ],
+    "answer_idx": 0,
+    "answer_text": "Starches"
+  },
+  {
+    "qid": "mmlu_anatomy_0016",
+    "subject": "anatomy",
+    "question": "Which muscles are normally active during quiet inspiration?",
+    "choices": [
+      "External and internal intercostal muscles",
+      "External intercostal muscles and diaphragm",
+      "Internal intercostal muscles and diaphragm",
+      "External and internal intercostal muscles and diaphragm"
+    ],
+    "answer_idx": 1,
+    "answer_text": "External intercostal muscles and diaphragm"
+  },
+  {
+    "qid": "mmlu_anatomy_0074",
+    "subject": "anatomy",
+    "question": "Examination of a patient indicates that they have a medially directed strabismus (squint). This could be due to damage to the",
+    "choices": [
+      "oculomotor nerve.",
+      "trochlear nerve.",
+      "ophthalmic trigeminal nerve.",
+      "abducens nerve."
+    ],
+    "answer_idx": 3,
+    "answer_text": "abducens nerve."
+  },
+  {
+    "qid": "mmlu_anatomy_0096",
+    "subject": "anatomy",
+    "question": "Parasympathetic preganglionic nerves leave the central nervous system with the",
+    "choices": [
+      "third cranial nerves.",
+      "fourth cranial nerves.",
+      "fifth cranial nerves.",
+      "sixth cranial nerves."
+    ],
+    "answer_idx": 0,
+    "answer_text": "third cranial nerves."
+  },
+  {
+    "qid": "mmlu_anatomy_0084",
+    "subject": "anatomy",
+    "question": "Which orbital wall is most likely to collapse in a 'blow out' fracture?",
+    "choices": [
+      "The roof",
+      "The floor",
+      "The lateral wall",
+      "The medial wall"
+    ],
+    "answer_idx": 1,
+    "answer_text": "The floor"
+  },
+  {
+    "qid": "mmlu_anatomy_0104",
+    "subject": "anatomy",
+    "question": "The mucosa of the hard palate is",
+    "choices": [
+      "keratinised and has submucosa and minor salivary glands posterolaterally.",
+      "non-keratinised and has submucosa and minor salivary glands posteromedially.",
+      "keratinised and lacks submucosa and minor salivary glands.",
+      "non-keratinised and lacks submucosa and minor salivary glands."
+    ],
+    "answer_idx": 0,
+    "answer_text": "keratinised and has submucosa and minor salivary glands posterolaterally."
+  },
+  {
+    "qid": "mmlu_astronomy_0011",
+    "subject": "astronomy",
+    "question": "How did Eratosthenes estimate the size of Earth in 240 B.C.?",
+    "choices": [
+      "By observing the duration of a solar eclipse.",
+      "By measuring the size of Earth's shadow on the Moon in a lunar eclipse.",
+      "By comparing the maximum altitude of the Sun in two cities at different latitudes at the same time on the same day.",
+      "By sending fleets of ships around Earth."
+    ],
+    "answer_idx": 2,
+    "answer_text": "By comparing the maximum altitude of the Sun in two cities at different latitudes at the same time on the same day."
+  },
+  {
+    "qid": "mmlu_astronomy_0127",
+    "subject": "astronomy",
+    "question": "When was the telescope invented by Galileo?",
+    "choices": [
+      "1409",
+      "1509",
+      "1609",
+      "1709"
+    ],
+    "answer_idx": 2,
+    "answer_text": "1609"
+  },
+  {
+    "qid": "mmlu_astronomy_0024",
+    "subject": "astronomy",
+    "question": "Most people use C°(degree Celsius) to measure everyday temperatures. Astronomers prefer to use K (Kelvin) to measure temperatures. Approximately how many Kelvin are 25 C°?",
+    "choices": [
+      "200 Kelvin",
+      "250 Kelvin",
+      "300 Kelvin",
+      "350 Kelvin"
+    ],
+    "answer_idx": 2,
+    "answer_text": "300 Kelvin"
+  },
+  {
+    "qid": "mmlu_astronomy_0019",
+    "subject": "astronomy",
+    "question": "From laboratory measurements we know that a particular spectral line formed by hydrogen appears at a wavelength of 486.1 nanometers (nm). The spectrum of a particular star shows the same hydrogen line appearing at a wavelength of 485.9 nm. What can we conclude?",
+    "choices": [
+      "The star is getting hotter.",
+      "The star is getting colder.",
+      "The star is moving toward us.",
+      "The star is moving away from us."
+    ],
+    "answer_idx": 2,
+    "answer_text": "The star is moving toward us."
+  },
+  {
+    "qid": "mmlu_astronomy_0079",
+    "subject": "astronomy",
+    "question": "A Mars year is approximately how many Earth years long?",
+    "choices": [
+      "1/2",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer_idx": 2,
+    "answer_text": "2"
+  },
+  {
+    "qid": "mmlu_astronomy_0023",
+    "subject": "astronomy",
+    "question": "Meteorites with high metal content probably are",
+    "choices": [
+      "pieces of comets rather than of asteroids.",
+      "chunks of large differentiated asteroids that were shattered by collisions.",
+      "chunks of rock chipped off the planet Mars.",
+      "leftover chunks of rock from the earliest period in the formation of the solar system."
+    ],
+    "answer_idx": 1,
+    "answer_text": "chunks of large differentiated asteroids that were shattered by collisions."
+  },
+  {
+    "qid": "mmlu_astronomy_0110",
+    "subject": "astronomy",
+    "question": "The resolution of a telescope is a measure of its:",
+    "choices": [
+      "Ability to magnify distant objects",
+      "Ability to measure the angular separation of objects",
+      "Ability to measure the distance between objects",
+      "Light-collecting efficiency"
+    ],
+    "answer_idx": 1,
+    "answer_text": "Ability to measure the angular separation of objects"
+  },
+  {
+    "qid": "mmlu_astronomy_0055",
+    "subject": "astronomy",
+    "question": "Why is it thought that the climate on Mars changed when the planet lost its strong magnetic field?",
+    "choices": [
+      "without a strong magnetic field the ozone layer was destroyed by the solar wind which stopped the greenhouse effect and cooled Mars down.",
+      "without a strong magnetic field which enhances the greenhouse effect Mars cooled down.",
+      "without a strong magnetic field the solar wind stripped away most of the atmosphere significantly reducing the greenhouse effect and cooling Mars down",
+      "without a strong magnetic field the planet recieves fewer charged particles from the solar wind and therefore is not heated as much"
+    ],
+    "answer_idx": 2,
+    "answer_text": "without a strong magnetic field the solar wind stripped away most of the atmosphere significantly reducing the greenhouse effect and cooling Mars down"
+  },
+  {
+    "qid": "mmlu_astronomy_0098",
+    "subject": "astronomy",
+    "question": "What is true about the rotation of a solid disk?",
+    "choices": [
+      "The velocity is the same on every point on the disk",
+      "The part closer to the axis has a longer period",
+      "The period of rotation is the same on every point on the disk",
+      "The part closer to the axis has a shorter period"
+    ],
+    "answer_idx": 2,
+    "answer_text": "The period of rotation is the same on every point on the disk"
+  },
+  {
+    "qid": "mmlu_astronomy_0091",
+    "subject": "astronomy",
+    "question": "Why is the Mars Exploration Rover Spirit currently tilted towards the north?",
+    "choices": [
+      "Because it’s climbing up a big hill.",
+      "Because it’s in the southern hemisphere where it is winter now.",
+      "Because it’s in the northern hemisphere where it is winter now.",
+      "Because one of its wheels broke."
+    ],
+    "answer_idx": 1,
+    "answer_text": "Because it’s in the southern hemisphere where it is winter now."
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0179",
+    "subject": "clinical_knowledge",
+    "question": "For very high force contractions lasting 1-2 seconds, the initial energy source is from:",
+    "choices": [
+      "Glycolysis.",
+      "creatine phosphorylation.",
+      "phosphocreatine stores.",
+      "ATP stores."
+    ],
+    "answer_idx": 3,
+    "answer_text": "ATP stores."
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0259",
+    "subject": "clinical_knowledge",
+    "question": "Why should a patient stand or sit as upright as possible when recording a peak flow rate?",
+    "choices": [
+      "To ensure best lung expansion and accuracy and consistency of readings.",
+      "This is the most comfortable position to perform any breathing test.",
+      "The counter on the meter will not move if the patient is lying down.",
+      "To ensure that their technique can be observed easily."
+    ],
+    "answer_idx": 0,
+    "answer_text": "To ensure best lung expansion and accuracy and consistency of readings."
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0091",
+    "subject": "clinical_knowledge",
+    "question": "Patients with the apolipoprotein E gene are at risk of which disease?",
+    "choices": [
+      "Cystic fibrosis.",
+      "Huntington's dementia.",
+      "Alzheimer's disease.",
+      "Depression."
+    ],
+    "answer_idx": 2,
+    "answer_text": "Alzheimer's disease."
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0169",
+    "subject": "clinical_knowledge",
+    "question": "Which of the following nucleotide bases is not found in RNA?",
+    "choices": [
+      "Thymine",
+      "Adenine",
+      "Uracil",
+      "Guanine"
+    ],
+    "answer_idx": 0,
+    "answer_text": "Thymine"
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0001",
+    "subject": "clinical_knowledge",
+    "question": "The key attribute in successful marathon running is:",
+    "choices": [
+      "strength.",
+      "power.",
+      "stride length.",
+      "stamina."
+    ],
+    "answer_idx": 3,
+    "answer_text": "stamina."
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0147",
+    "subject": "clinical_knowledge",
+    "question": "In the discharge checklist recommended by the Department of Health (2004), who should be involved in completing the form?",
+    "choices": [
+      "The GP, consultant, and named nurse.",
+      "The nurse, patient, and ward clerk.",
+      "The nurse, ward clerk, and consultant.",
+      "The nurse, consultant, and GP."
+    ],
+    "answer_idx": 1,
+    "answer_text": "The nurse, patient, and ward clerk."
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0049",
+    "subject": "clinical_knowledge",
+    "question": "Most of the free fatty acids are transported in the blood:",
+    "choices": [
+      "inside the red blood cells.",
+      "as lipoproteins.",
+      "combined with glucose.",
+      "bound to albumin."
+    ],
+    "answer_idx": 3,
+    "answer_text": "bound to albumin."
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0075",
+    "subject": "clinical_knowledge",
+    "question": "What is the minimum time a stretch should be held for?",
+    "choices": [
+      "0-10 seconds.",
+      "10-30 seconds.",
+      "30-50 seconds.",
+      "60 seconds."
+    ],
+    "answer_idx": 1,
+    "answer_text": "10-30 seconds."
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0160",
+    "subject": "clinical_knowledge",
+    "question": "The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of:",
+    "choices": [
+      "six molecules of water.",
+      "two molecules of ATP.",
+      "three molecules of ATP.",
+      "thirty-eight molecules of ATP."
+    ],
+    "answer_idx": 1,
+    "answer_text": "two molecules of ATP."
+  },
+  {
+    "qid": "mmlu_clinical_knowledge_0132",
+    "subject": "clinical_knowledge",
+    "question": "The pulse can be palpated:",
+    "choices": [
+      "every time the atria contracts.",
+      "when a vein is close to the surface of the skin.",
+      "every time the left ventricle contracts.",
+      "when an artery is close to the surface of the skin."
+    ],
+    "answer_idx": 3,
+    "answer_text": "when an artery is close to the surface of the skin."
+  },
+  {
+    "qid": "mmlu_college_biology_0090",
+    "subject": "college_biology",
+    "question": "Hybrids between some related species of plants are sterile because the parent plants had different chromosome numbers. Occasionally the chromosome number of such a hybrid plant doubles spontaneously. Which of the following best describes the descendants of those plants with the double chromosome number?",
+    "choices": [
+      "The plant with the double chromosome number would be genetically defective and have no descendants.",
+      "The descendants would be at a selective advantage because of the increased ability to introgress.",
+      "The descendants would be reproductively successful because they could backcross with the parental species.",
+      "The descendants would regain the ability to reproduce sexually because chromosomes could pair normally."
+    ],
+    "answer_idx": 3,
+    "answer_text": "The descendants would regain the ability to reproduce sexually because chromosomes could pair normally."
+  },
+  {
+    "qid": "mmlu_college_biology_0139",
+    "subject": "college_biology",
+    "question": "Which of the following is a correct statement about the cohesion-tension theory for the ascent of water in the xylem?",
+    "choices": [
+      "The evaporation of water from leaf mesophyll cells generates tension in the water column.",
+      "Water moves from a source region with high hydrostatic pressure to a sink region with low hydrostatic pressure.",
+      "The cohesion of water molecules is responsible for the formation of embolisms (air bubbles) in the water column.",
+      "Living cells of the xylem provide the main conduit for an ascent of water."
+    ],
+    "answer_idx": 0,
+    "answer_text": "The evaporation of water from leaf mesophyll cells generates tension in the water column."
+  },
+  {
+    "qid": "mmlu_college_biology_0118",
+    "subject": "college_biology",
+    "question": "Proteins were shown to move about in a plane of the plasma membrane when mouse cellsurface proteins and human cell-surface proteins were observed to integrate along a fused mouse-human cell plasma membrane. Which of the following cell culture techniques was most likely employed in order to yield these results?",
+    "choices": [
+      "Producing a heterokaryon",
+      "Producing a hybrid cell",
+      "Isolating an immortal variant cell from culture and using it to create a cell line",
+      "Inserting a tumor-inducing virus into a normal cell to initiate transformation"
+    ],
+    "answer_idx": 0,
+    "answer_text": "Producing a heterokaryon"
+  },
+  {
+    "qid": "mmlu_college_biology_0016",
+    "subject": "college_biology",
+    "question": "Which of the following is a benefit that mycorrhizal fungi confer to many plants?",
+    "choices": [
+      "They protect plant roots from desiccation in extremely dry habitats.",
+      "They fix nitrogen, which is particularly important for plants in nitrogen-limited habitats.",
+      "They provide access to phosphorus, an essential element that is limited in many kinds of soils.",
+      "They provide carbon to plants in exchange for fixed nitrogen."
+    ],
+    "answer_idx": 2,
+    "answer_text": "They provide access to phosphorus, an essential element that is limited in many kinds of soils."
+  },
+  {
+    "qid": "mmlu_college_biology_0082",
+    "subject": "college_biology",
+    "question": "Adequate serum levels of calcium are maintained in humans by the secretion of",
+    "choices": [
+      "thyroxine",
+      "glucagon",
+      "growth hormone",
+      "parathyroid hormone"
+    ],
+    "answer_idx": 3,
+    "answer_text": "parathyroid hormone"
+  },
+  {
+    "qid": "mmlu_college_biology_0094",
+    "subject": "college_biology",
+    "question": "Which of the following is encoded by the src oncogene and catalyzes the specific addition of phosphate groups to cellular proteins?",
+    "choices": [
+      "Protein phosphatase",
+      "Adenylate cyclase",
+      "G protein-linked receptor",
+      "Tyrosine kinase"
+    ],
+    "answer_idx": 3,
+    "answer_text": "Tyrosine kinase"
+  },
+  {
+    "qid": "mmlu_college_biology_0120",
+    "subject": "college_biology",
+    "question": "A subunit of DNA and protein consisting of 134-base-pair long stretches of DNA surrounding a protein octomer is called (a)",
+    "choices": [
+      "histone",
+      "chromatin",
+      "nucleosome",
+      "solenoid"
+    ],
+    "answer_idx": 2,
+    "answer_text": "nucleosome"
+  },
+  {
+    "qid": "mmlu_college_biology_0112",
+    "subject": "college_biology",
+    "question": "From an evolutionary perspective, the optimality theory as applied to a given trait is best represented by the idea that",
+    "choices": [
+      "if the benefits gained from the trait exceed the cost of the trait to the animal performing them, that trait will persist in the genome",
+      "if the trait reaps the best return for the cost relative to alternative forms of the trait, that trait will win out over the alternative forms",
+      "beneficial traits are always worth the cost to the organism in energy and physiology, so those traits will persist in the genome",
+      "the relative fitness of an organism must be improved due to a specific trait in order for the trait to remain in a population's gene pool"
+    ],
+    "answer_idx": 1,
+    "answer_text": "if the trait reaps the best return for the cost relative to alternative forms of the trait, that trait will win out over the alternative forms"
+  },
+  {
+    "qid": "mmlu_college_biology_0127",
+    "subject": "college_biology",
+    "question": "Mutation of homeotic cluster genes often results in which of the following developmental defects in Drosophila?",
+    "choices": [
+      "Absence of a group of contiguous segments",
+      "Transformation of one segment into another",
+      "Polarity defects in every segment along the anterior-posterior axis",
+      "Tumor formation in imaginal discs"
+    ],
+    "answer_idx": 1,
+    "answer_text": "Transformation of one segment into another"
+  },
+  {
+    "qid": "mmlu_college_biology_0132",
+    "subject": "college_biology",
+    "question": "Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environment. Which of the following represents a form of Batesian mimicry?",
+    "choices": [
+      "A type of millipede that is toxic to a toad is permanently avoided by the toad following the toad's initial attempt to consume it.",
+      "A moth exhibits false eyes at its tail end in order to disorient predators.",
+      "A moth exhibits nearly identical coloration to that of a stinging bee.",
+      "A ground-nesting gull chick displays a coloration pattern that is nearly indistinguishable from its surroundings."
+    ],
+    "answer_idx": 2,
+    "answer_text": "A moth exhibits nearly identical coloration to that of a stinging bee."
+  },
+  {
+    "qid": "mmlu_global_facts_0041",
+    "subject": "global_facts",
+    "question": "About what percentage of survey respondents from China report having paid a bribe in the last year to access public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service) as of 2017?",
+    "choices": [
+      "26%",
+      "46%",
+      "66%",
+      "86%"
+    ],
+    "answer_idx": 0,
+    "answer_text": "26%"
+  },
+  {
+    "qid": "mmlu_global_facts_0033",
+    "subject": "global_facts",
+    "question": "Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in China?",
+    "choices": [
+      "by 4 fold",
+      "by 8 fold",
+      "by 16 fold",
+      "by 32 fold"
+    ],
+    "answer_idx": 2,
+    "answer_text": "by 16 fold"
+  },
+  {
+    "qid": "mmlu_global_facts_0093",
+    "subject": "global_facts",
+    "question": "As of 2019, about what percentage of French people say God plays an important role in their life?",
+    "choices": [
+      "11%",
+      "31%",
+      "51%",
+      "71%"
+    ],
+    "answer_idx": 1,
+    "answer_text": "31%"
+  },
+  {
+    "qid": "mmlu_global_facts_0055",
+    "subject": "global_facts",
+    "question": "As of 2019, about what percentage of Americans say the relationship between the U.S. and Germany is good?",
+    "choices": [
+      "60%",
+      "75%",
+      "90%",
+      "45%"
+    ],
+    "answer_idx": 1,
+    "answer_text": "75%"
+  },
+  {
+    "qid": "mmlu_global_facts_0098",
+    "subject": "global_facts",
+    "question": "As of 2017, how many people in the world have some access to electricity?",
+    "choices": [
+      "60%",
+      "70%",
+      "80%",
+      "90%"
+    ],
+    "answer_idx": 2,
+    "answer_text": "80%"
+  },
+  {
+    "qid": "mmlu_global_facts_0046",
+    "subject": "global_facts",
+    "question": "What is the percentage of children aged 13-15 in the United States who reported being bullied at least once in the past couple of months as of 2015?",
+    "choices": [
+      "26%",
+      "46%",
+      "66%",
+      "86%"
+    ],
+    "answer_idx": 0,
+    "answer_text": "26%"
+  },
+  {
+    "qid": "mmlu_global_facts_0054",
+    "subject": "global_facts",
+    "question": "As of 2019, about what percentage of people from Russia says homosexuality should be accepted by society?",
+    "choices": [
+      "14%",
+      "24%",
+      "34%",
+      "44%"
+    ],
+    "answer_idx": 0,
+    "answer_text": "14%"
+  },
+  {
+    "qid": "mmlu_global_facts_0090",
+    "subject": "global_facts",
+    "question": "Which of the following countries emitted the most CO2 in 2017?",
+    "choices": [
+      "Canada",
+      "Russia",
+      "Iran",
+      "Japan"
+    ],
+    "answer_idx": 3,
+    "answer_text": "Japan"
+  },
+  {
+    "qid": "mmlu_global_facts_0001",
+    "subject": "global_facts",
+    "question": "What was GDP per capita in the United States in 1850 when adjusting for inflation and PPP in 2011 prices?",
+    "choices": [
+      "About $300",
+      "About $3k",
+      "About $8k",
+      "About $15k"
+    ],
+    "answer_idx": 1,
+    "answer_text": "About $3k"
+  },
+  {
+    "qid": "mmlu_global_facts_0077",
+    "subject": "global_facts",
+    "question": "As of 2013, which of the following countries had the highest per capita rate of homelessness?",
+    "choices": [
+      "US",
+      "Chile",
+      "Ireland",
+      "Spain"
+    ],
+    "answer_idx": 0,
+    "answer_text": "US"
+  },
+  {
+    "qid": "mmlu_high_school_biology_0168",
+    "subject": "high_school_biology",
+    "question": "Logically, which of these should cast the most doubt on the relationships depicted by an evolutionary tree?",
+    "choices": [
+      "None of the organisms depicted by the tree ate the same foods.",
+      "Some of the organisms depicted by the tree had lived in different habitats.",
+      "The skeletal remains of the organisms depicted by the tree were incomplete (i.e., some bones were missing).",
+      "Relationships between DNA sequences among the species did not match relationships between skeletal patterns."
+    ],
+    "answer_idx": 3,
+    "answer_text": "Relationships between DNA sequences among the species did not match relationships between skeletal patterns."
+  },
+  {
+    "qid": "mmlu_high_school_biology_0214",
+    "subject": "high_school_biology",
+    "question": "To ensure that hatchling sea turtles orient to the sea rather than inland, which of the following is the most environmentally sound practice around sea turtle nest sites?",
+    "choices": [
+      "Digging troughs in the sand from the nests to the sea",
+      "Minimizing artificial lighting in the area",
+      "Scattering preferred turtle foods between the nests and the sea",
+      "Building low fences on the sand dunes"
+    ],
+    "answer_idx": 1,
+    "answer_text": "Minimizing artificial lighting in the area"
+  },
+  {
+    "qid": "mmlu_high_school_biology_0279",
+    "subject": "high_school_biology",
+    "question": "When a retrovirus inserted its DNA into the middle of a bacterial gene, it altered the normal reading frame by one base pair. This type of mutation is called",
+    "choices": [
+      "duplication",
+      "translocation",
+      "inversion",
+      "frameshift mutation"
+    ],
+    "answer_idx": 3,
+    "answer_text": "frameshift mutation"
+  },
+  {
+    "qid": "mmlu_high_school_biology_0309",
+    "subject": "high_school_biology",
+    "question": "A piece of potato is dropped into a beaker of pure water. Which of the following describes the activity after the potato is immersed into the water?",
+    "choices": [
+      "Water moves from the potato into the surrounding water.",
+      "Water moves from the surrounding water into the potato.",
+      "Potato cells plasmolyze.",
+      "Solutes in the water move into the potato."
+    ],
+    "answer_idx": 1,
+    "answer_text": "Water moves from the surrounding water into the potato."
+  },
+  {
+    "qid": "mmlu_high_school_biology_0233",
+    "subject": "high_school_biology",
+    "question": "A chemical agent is found to denature all enzymes in the synaptic cleft. What effect will this agent have on acetylcholine?",
+    "choices": [
+      "Acetylcholine will not be released from the presynaptic membrane.",
+      "Acetylcholine will not bind to receptor proteins on the postsynaptic membrane.",
+      "Acetylcholine will not diffuse across the cleft to the postsynaptic membrane.",
+      "Acetylcholine will not be degraded in the synaptic cleft."
+    ],
+    "answer_idx": 3,
+    "answer_text": "Acetylcholine will not be degraded in the synaptic cleft."
+  },
+  {
+    "qid": "mmlu_high_school_biology_0071",
+    "subject": "high_school_biology",
+    "question": "Two genes (B and E) determine coat color in Labrador retrievers. Alleles B and b code for how much melanin is present. The dominant allele B codes for black fur, the recessive allele b codes for brown hair. A second gene consisting of two alleles, E and e, codes for the deposition of pigment in the hair. In this case, the alleles for pigment deposition (E or e) are said to be epistatic to the gene that codes for black or brown pigment. If the dominant allele (E) is not present, regardless of the genotype at the black/brown locus, the animal's fur will be yellow.",
+    "choices": [
+      "BBEe will be brown.",
+      "BbEe will be brown.",
+      "Bbee will be brown.",
+      "BBee will be yellow."
+    ],
+    "answer_idx": 3,
+    "answer_text": "BBee will be yellow."
+  },
+  {
+    "qid": "mmlu_high_school_biology_0111",
+    "subject": "high_school_biology",
+    "question": "Which of the following statement is supported by the information given in the pedigree?",
+    "choices": [
+      "The P generation mother is X-X.",
+      "The P generation father is X-Y.",
+      "If parents 1 and 2 in row II have another child, the chance that the child would be afflicted with alkaptonuria is 25%.",
+      "The genotype of woman 1 is X-X."
+    ],
+    "answer_idx": 2,
+    "answer_text": "If parents 1 and 2 in row II have another child, the chance that the child would be afflicted with alkaptonuria is 25%."
+  },
+  {
+    "qid": "mmlu_high_school_biology_0027",
+    "subject": "high_school_biology",
+    "question": "Which of the following reactions occurs in the forward direction during glycolysis but in the reverse direction during fermentation?",
+    "choices": [
+      "pyruvate → lactate",
+      "pyruvate → ethanol",
+      "NAD+ + H+ + 2e- → NADH",
+      "ADP + P → ATP"
+    ],
+    "answer_idx": 2,
+    "answer_text": "NAD+ + H+ + 2e- → NADH"
+  },
+  {
+    "qid": "mmlu_high_school_biology_0227",
+    "subject": "high_school_biology",
+    "question": "snRNPs are most closely associated with which of the following?",
+    "choices": [
+      "Cell division",
+      "Apoptosis",
+      "Replication of DNA",
+      "RNA processing"
+    ],
+    "answer_idx": 3,
+    "answer_text": "RNA processing"
+  },
+  {
+    "qid": "mmlu_high_school_biology_0218",
+    "subject": "high_school_biology",
+    "question": "The normal pH of the cytosol is about 7.2. Most enzymes in the lysosome, however, are only active at a pH of 5. This suggests that",
+    "choices": [
+      "only acidic substances can undergo enzymatic processing in lysosomes",
+      "most enzymes in the lysosome are incapable of catalyzing substrates inside the lysosome",
+      "enzymes in the lysosome are released to the cytosol",
+      "protons are actively pumped into the lysosome"
+    ],
+    "answer_idx": 3,
+    "answer_text": "protons are actively pumped into the lysosome"
+  },
+  {
+    "qid": "mmlu_high_school_geography_0027",
+    "subject": "high_school_geography",
+    "question": "A population pyramid, or age-sex structure, displays all the following information about a country's population EXCEPT",
+    "choices": [
+      "future social spending needs of the population.",
+      "the impact of \"baby booms\" on the population.",
+      "the impact of wars on the population.",
+      "a quick visual depiction of the country's demographics."
+    ],
+    "answer_idx": 1,
+    "answer_text": "the impact of \"baby booms\" on the population."
+  },
+  {
+    "qid": "mmlu_high_school_geography_0068",
+    "subject": "high_school_geography",
+    "question": "Which of the following is NOT an example of syncretism?",
+    "choices": [
+      "Halloween",
+      "Foreign cuisine changed to suit American tastes",
+      "Hasidic Judaism",
+      "Catholicism in Louisiana"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Hasidic Judaism"
+  },
+  {
+    "qid": "mmlu_high_school_geography_0119",
+    "subject": "high_school_geography",
+    "question": "A person who practices the Hindu religion would be most likely to",
+    "choices": [
+      "visit a shrine built on the shore of a lake.",
+      "pray five times a day.",
+      "bathe in the Ganges River.",
+      "make a pilgrimage to Jerusalem."
+    ],
+    "answer_idx": 2,
+    "answer_text": "bathe in the Ganges River."
+  },
+  {
+    "qid": "mmlu_high_school_geography_0159",
+    "subject": "high_school_geography",
+    "question": "Which theory below was used as justification for US involvement in Vietnam in the 1960s and 1970s?",
+    "choices": [
+      "Devolution",
+      "Colonialism",
+      "Heartland theory",
+      "Containment theory"
+    ],
+    "answer_idx": 3,
+    "answer_text": "Containment theory"
+  },
+  {
+    "qid": "mmlu_high_school_geography_0090",
+    "subject": "high_school_geography",
+    "question": "Which of the following entities is a state?",
+    "choices": [
+      "Antarctica",
+      "American Samoa",
+      "Egypt",
+      "Marshall Islands"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Egypt"
+  },
+  {
+    "qid": "mmlu_high_school_geography_0066",
+    "subject": "high_school_geography",
+    "question": "Which language family contains Italian, Spanish, Portuguese, and Romanian?",
+    "choices": [
+      "European",
+      "Slavic",
+      "Germanic",
+      "Romance"
+    ],
+    "answer_idx": 3,
+    "answer_text": "Romance"
+  },
+  {
+    "qid": "mmlu_high_school_geography_0047",
+    "subject": "high_school_geography",
+    "question": "An earlier boundary formed before meticulous geographic knowledge and mapping was available is known as",
+    "choices": [
+      "an antecedent boundary.",
+      "a geometric boundary.",
+      "a relict boundary.",
+      "a subsequent boundary."
+    ],
+    "answer_idx": 0,
+    "answer_text": "an antecedent boundary."
+  },
+  {
+    "qid": "mmlu_high_school_geography_0031",
+    "subject": "high_school_geography",
+    "question": "All of the following are non-basic jobs in the city EXCEPT",
+    "choices": [
+      "city firefighter.",
+      "social worker.",
+      "dry cleaner.",
+      "garment factory worker."
+    ],
+    "answer_idx": 3,
+    "answer_text": "garment factory worker."
+  },
+  {
+    "qid": "mmlu_high_school_geography_0127",
+    "subject": "high_school_geography",
+    "question": "Which theorist(s) tried to explain the prices of farm products as they relate to patterns of land use?",
+    "choices": [
+      "Rostow",
+      "Ravenstein",
+      "Von Thünen",
+      "Burgess"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Von Thünen"
+  },
+  {
+    "qid": "mmlu_high_school_geography_0179",
+    "subject": "high_school_geography",
+    "question": "In which of the following Asian countries would one find special economic zones (SEZs)?",
+    "choices": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Vietnam"
+    ],
+    "answer_idx": 2,
+    "answer_text": "China"
+  },
+  {
+    "qid": "mmlu_high_school_us_history_0047",
+    "subject": "high_school_us_history",
+    "question": "This question refers to the following information.\n\"If you analyze it I believe the very heart and soul of conservatism is libertarianism. I think conservatism is really a misnomer just as liberalism is a misnomer for the liberals—if we were back in the days of the Revolution, so-called conservatives today would be the Liberals and the liberals would be the Tories. The basis of conservatism is a desire for less government interference or less centralized authority or more individual freedom and this is a pretty general description also of what libertarianism is. Now, I can't say that I will agree with all the things that the present group who call themselves Libertarians in the sense of a party say, because I think that like in any political movement there are shades, and there are libertarians who are almost over at the point of wanting no government at all or anarchy. I believe there are legitimate government functions. There is a legitimate need in an orderly society for some government to maintain freedom or we will have tyranny by individuals. The strongest man on the block will run the neighborhood. We have government to ensure that we don't each one of us have to carry a club to defend ourselves. But again, I stand on my statement that I think that libertarianism and conservatism are traveling the same path.\"\nRonald Reagan, Interview published in Reason magazine, 1975\nWhich of the following groups would be most opposed to the sentiments expressed in the excerpt above?",
+    "choices": [
+      "Neoconservatives",
+      "Reagan Democrats",
+      "Progressive Liberals",
+      "Populists"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Progressive Liberals"
+  },
+  {
+    "qid": "mmlu_high_school_us_history_0149",
+    "subject": "high_school_us_history",
+    "question": "This question refers to the following information.\n\"We conclude that, in the field of public education, the doctrine of \"separate but equal\" has no place. Separate educational facilities are inherently unequal. Therefore, we hold that the plaintiffs and others similarly situated for whom the actions have been brought are, by reason of the segregation complained of, deprived of the equal protection of the laws guaranteed by the Fourteenth Amendment.\"\nBrown v. Board of Education, 1954\nAll of the following are social movements inspired by the Civil Rights movement EXCEPT",
+    "choices": [
+      "women's rights",
+      "gay and lesbian rights",
+      "states' rights",
+      "Native American rights"
+    ],
+    "answer_idx": 2,
+    "answer_text": "states' rights"
+  },
+  {
+    "qid": "mmlu_high_school_us_history_0178",
+    "subject": "high_school_us_history",
+    "question": "This question refers to the following information.\n\"Yesterday, December 7, 1941—a date which will live in infamy—the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan. The United States was at peace with that nation and, at the solicitation of Japan, was still in conversation with its Government and its Emperor looking toward the maintenance of peace in the Pacific. Indeed, one hour after Japanese air squadrons had commenced bombing…the Japanese Ambassador to the United States and his colleague delivered to the Secretary of State a formal reply to a recent American message. While this reply stated that it seemed useless to continue the existing diplomatic negotiations, it contained no threat or hint of war or armed attack….The attack yesterday…has caused severe damage to American naval and military forces. Very many American lives have been lost. In addition American ships have been reported torpedoed on the high seas….As Commander-in-Chief of the Army and Navy, I have directed that all measures be taken for our defense.\"\nPresident Franklin D. Roosevelt, radio address, December 8, 1941\nWhich of the following was the most immediate consequence of the events described in the excerpt above?",
+    "choices": [
+      "Trade embargoes with Japan extending up through the 1980s",
+      "The Battle of Normandy",
+      "The internment of Japanese-Americans",
+      "The bombing of Nagasaki"
+    ],
+    "answer_idx": 2,
+    "answer_text": "The internment of Japanese-Americans"
+  },
+  {
+    "qid": "mmlu_high_school_us_history_0090",
+    "subject": "high_school_us_history",
+    "question": "This question refers to the following information.\nBECAUSE no People can be truly happy, though under the greatest Enjoyment of Civil Liberties, if abridged of the Freedom of their Consciences, as to their Religious Profession and Worship: And Almighty God being the only Lord of Conscience, Father of Lights and Spirits; and the Author as well as Object of all divine Knowledge, Faith and Worship, who only doth enlighten the Minds, and persuade and convince the Understanding of People, I do hereby grant and declare, That no Person or Persons, inhabiting in this Province or Territories, who shall confess and acknowledge One almighty God, the Creator, Upholder and Ruler of the World; and profess him or themselves obliged to live quietly under the Civil Government, shall be in any Case molested or prejudiced, in his or their Person or Estate, because of his or their conscientious Persuasion or Practice, nor be compelled to frequent or maintain any religious Worship, Place or Ministry, contrary to his or their Mind.…\n—William Penn, Charter of Privileges Granted by William Penn,\nesq. to the Inhabitants of Pennsylvania and Territories, October 28, 1701\nWhich of the following best describes the colony of Pennsylvania?",
+    "choices": [
+      "A charter colony in which the King granted a charter to a group of businessmen or colonists",
+      "A proprietary colony in which the King entrusted government to a proprietor and his family",
+      "A royal colony in which the King appointed the governor",
+      "An independent colony governed outside the authority of the King"
+    ],
+    "answer_idx": 1,
+    "answer_text": "A proprietary colony in which the King entrusted government to a proprietor and his family"
+  },
+  {
+    "qid": "mmlu_high_school_us_history_0074",
+    "subject": "high_school_us_history",
+    "question": "This question refers to the following information.\nAll this while the Indians came skulking about them, and would sometimes show themselves aloof off, but when any approached near them, they would run away; and once they stole away their tools where they had been at work and were gone to dinner. But about the 16th of March, a certain Indian came boldly amongst them and spoke to them in broken English, which they could well understand but marveled at it. At length they understood by discourse with him, that he was not of these parts, but belonged to the eastern parts where some English ships came to fish, with whom he was acquainted and could name sundry of them by their names, amongst whom he had got his language. He became profitable to them in acquainting them with many things concerning the state of the country in the east parts where he lived, which was afterwards profitable unto them; as also of the people here, of their names, number and strength, of their situation and distance from the place, and who was chief amongst them. His name was Samoset. He told them also of another Indian whose name was Squanto, a native of this place, who had been in England and could speak better English than himself.\n—William Bradford, History of Plymouth Plantation\nSamoset and Squanto can most directly be compared to whom?",
+    "choices": [
+      "Tecumseh",
+      "Crazy Horse",
+      "Sacagawea",
+      "Geronimo"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Sacagawea"
+  },
+  {
+    "qid": "mmlu_high_school_us_history_0124",
+    "subject": "high_school_us_history",
+    "question": "This question refers to the following information.\n\"I observe the great and wonderful mistake, both our own and our fathers, as to the civil powers of this world, acting in spiritual matters. I have read…the last will and testament of the Lord Jesus over many times, and yet I cannot find by one tittle of that testament that if He had been pleased to have accepted of a temporal crown and government that ever He would have put forth the least finger of temporal or civil power in the matters of His spiritual affairs and Kingdom. Hence must it lamentably be against the testimony of Christ Jesus for the civil state to impose upon the souls of the people a religion, a worship, a ministry, oaths (in religious and civil affairs), tithes, times, days, marryings, and buryings in holy ground…\"\nRoger Williams, The Hireling Ministry None of Christ's, 1652\nWhich of the following documents encouraged church membership in the Massachusetts Bay Colony?",
+    "choices": [
+      "The Mayflower Compact",
+      "The Fundamental Orders",
+      "The Halfway Covenant",
+      "The Cambridge Agreement"
+    ],
+    "answer_idx": 2,
+    "answer_text": "The Halfway Covenant"
+  },
+  {
+    "qid": "mmlu_high_school_us_history_0140",
+    "subject": "high_school_us_history",
+    "question": "This question refers to the following information.\n\"With 78 percent of the Union electorate casting ballots, Lincoln was reelected in an Electoral College landslide, 212 to McClellan's 21. The 55% popular vote for the president was the third largest in the nineteenth century, surpassed only by Jackson's first victory in 1828 and Grant's reelection in 1872. McClellan won only New Jersey, Delaware, and Kentucky. Republicans drew support from native-born farmers, skilled and professional workers, those of New England descent, younger voters, and military personnel. Democrats were strongest in the cities and among Irish- and German-Americans (the most populous immigrant groups). It has been estimated that Lincoln received 78% of the vote of Union soldiers and sailors. The figure was not necessary for his reelection, but was perhaps the margin of victory in a few close states and, more importantly, of great symbolic value. Republicans also gained seats in Congress to retain unassailable control, 149 to 42 in the House and 42 to 10 in the Senate; took back several state legislatures; and lost only the governorship of New Jersey (McClellan's home state).\"\nElection of 1864, Harpweek.com\nWhich of the following provides the best explanation for why Radical Republicans opposed Lincoln in 1861?",
+    "choices": [
+      "Lincoln's decision to issue the Emancipation Proclamation was done without congressional oversight.",
+      "The Radical Republicans wanted immediate emancipation of slaves, but Lincoln refused to cooperate.",
+      "Lincoln's Ten Percent Plan provided no assurance of black suffrage.",
+      "Lincoln's appointment of Andrew Johnson as vice president clashed with the Reconstruction goals of the Senate."
+    ],
+    "answer_idx": 1,
+    "answer_text": "The Radical Republicans wanted immediate emancipation of slaves, but Lincoln refused to cooperate."
+  },
+  {
+    "qid": "mmlu_high_school_us_history_0079",
+    "subject": "high_school_us_history",
+    "question": "This question refers to the following information.\n\"Some men look at constitutions with sanctimonious reverence, and deem them like the ark of the covenant, too sacred to be touched. They ascribe to the men of the preceding age a wisdom more than human, and suppose what they did to be beyond amendment….But I know also, that laws and institutions must go hand in hand with the progress of the human mind. As that becomes more developed, more enlightened, as new discoveries are made, new truths disclosed, and manners and opinions change with the change of circumstances, institutions must advance also, and keep pace with the times.\"\nThomas Jefferson, 1816\nWhich of the following best describes a contributing factor in the crafting of the United States Constitution?",
+    "choices": [
+      "Individual state constitutions written at the time of the Revolution tended to cede too much power to the federal government, leading to a call for reform on the part of Anti-Federalists.",
+      "The weaknesses of the Articles of Confederation led James Madison to question their efficacy and prompted a formation of the Constitutional Congress in 1787",
+      "Difficulties over trade and foreign relations led to a repeal of overly restrictive tariffs required by the Articles of Confederation.",
+      "Washington's embarrassing failure at the Whiskey Rebellion led to Federalist demands for a new framework for federal power."
+    ],
+    "answer_idx": 1,
+    "answer_text": "The weaknesses of the Articles of Confederation led James Madison to question their efficacy and prompted a formation of the Constitutional Congress in 1787"
+  },
+  {
+    "qid": "mmlu_high_school_us_history_0175",
+    "subject": "high_school_us_history",
+    "question": "This question refers to the following information.\n\"As a means of effecting this end I suggest for your consideration the propriety of setting apart an ample district west of the Mississippi, and without the limit of any State or Territory now formed, to be guaranteed to the Indian tribes as long as they shall occupy it. . . . There they may be secured in the enjoyment of governments of their own choice, subject to no other control from the United States than such as may be necessary to preserve peace on the frontier and between the several tribes. There the benevolent may endeavor to teach them the arts of civilization. . . .\n\"This emigration would be voluntary, for it would be as cruel and unjust to compel the aborigines to abandon the graves of their fathers and seek a home in a distant land. But they should be distinctly informed that if they remain within the limits of the States they must be subject to their laws. . . .\"\n—President Andrew Jackson, 1829\nBased on this quotation, what can you infer about the efforts of Martin Luther King and others in the civil rights movement of the 1950s?",
+    "choices": [
+      "The civil rights movement was not finding success through nonviolent methods.",
+      "Advocates for civil rights were coordinating their efforts to raise awareness of racial segregation across the country.",
+      "King was focused on ending segregation in Birmingham only.",
+      "King was willing to compromise his principles and would be a violent agitator if necessary."
+    ],
+    "answer_idx": 1,
+    "answer_text": "Advocates for civil rights were coordinating their efforts to raise awareness of racial segregation across the country."
+  },
+  {
+    "qid": "mmlu_high_school_us_history_0169",
+    "subject": "high_school_us_history",
+    "question": "This question refers to the following information.\n\"Some men look at constitutions with sanctimonious reverence, and deem them like the ark of the covenant, too sacred to be touched. They ascribe to the men of the preceding age a wisdom more than human, and suppose what they did to be beyond amendment….But I know also, that laws and institutions must go hand in hand with the progress of the human mind. As that becomes more developed, more enlightened, as new discoveries are made, new truths disclosed, and manners and opinions change with the change of circumstances, institutions must advance also, and keep pace with the times.\"\nThomas Jefferson, 1816\nWhich of following Amendments to the Constitution is most directly an example of the sentiments expressed above?",
+    "choices": [
+      "The First Amendment, which guaranteed the right to free speech",
+      "The Tenth Amendment, which allows powers not granted to the federal government be granted to the states",
+      "The Nineteenth Amendment, which guaranteed all women the right to vote",
+      "The Twenty-first Amendment, which repealed the prohibition of alcohol"
+    ],
+    "answer_idx": 3,
+    "answer_text": "The Twenty-first Amendment, which repealed the prohibition of alcohol"
+  },
+  {
+    "qid": "mmlu_high_school_world_history_0095",
+    "subject": "high_school_world_history",
+    "question": "This question refers to the following information.\nThis ruler of Syria made me spend many years as commander of his army,\nEvery land to which I turned\nI overcame.\nI destroyed its green fields and its wells,\nI captured its cattle, I took captive its inhabitants, I deprived them of their provisions,\nand I slew [many] people…by my sword, my bow, my marchings, and my good devices.\nThus my excellence was in his heart; he loved me and he knew my valor;\n…he set me at the head of his sons, when he saw the success of my handiwork.\nThere came a champion of Syria\nto defy me in my tent;\na bold man without equal, for he had vanquished all his rivals.\nHe said, \"Let Sanehat fight with me.\"\nHe thought to overcome me; he designed to take my cattle, thus being counseled by his tribe.\nThe Tale of Sanehat, Egyptian poem written during the Middle Kingdom, ca.1800 B.C.E.\nWhich of the following best describes the most common political significance of conflict between states to the rulers of early civilizations?",
+    "choices": [
+      "Victories against outsiders granted legitimacy to leaders of states.",
+      "Victories against outsiders provided slaves whose labor sustained agricultural systems.",
+      "Victories against outsiders demonstrated the power of divinities over other gods.",
+      "Victories against outsiders allowed leaders of states to incorporate the elites of the subjugated into the conquering power."
+    ],
+    "answer_idx": 0,
+    "answer_text": "Victories against outsiders granted legitimacy to leaders of states."
+  },
+  {
+    "qid": "mmlu_high_school_world_history_0038",
+    "subject": "high_school_world_history",
+    "question": "This question refers to the following information.\n\"My little homestead in the city, which I recently insured for ￡2,000 would no doubt have shared the common fate, as the insurance companies will not make good that which is destroyed by the Queen's enemies. And although I have a farm of 50 acres close to the town, no doubt the crops and premises would have been destroyed. In fact, this has already partly been the case, and I am now suing the Government for damages done by a contingent of 1,500 natives that have recently encamped not many hundred yards from the place, who have done much damage all around.\"\nLetter from a British citizen to his sister during the Anglo-Zulu War, South Africa, 1879\nThe inclusion of the author's pending litigation with the British government serves to do which of the following?",
+    "choices": [
+      "Highlight the extent of the author's property losses",
+      "Express his opposition to the ongoing war",
+      "Belittle British officials",
+      "Place blame on both his home country as well as the Zulus"
+    ],
+    "answer_idx": 3,
+    "answer_text": "Place blame on both his home country as well as the Zulus"
+  },
+  {
+    "qid": "mmlu_high_school_world_history_0125",
+    "subject": "high_school_world_history",
+    "question": "This question refers to the following information.\nSource 1:\n\"Moreover, Sir, in our Kingdoms there is another great inconvenience which is of little service to God, and this is that many of our people, keenly desirous as they are of the wares and things of your Kingdoms, which are brought here by your people, and in order to satisfy their voracious appetite, seize many of our people, freed and exempt men, and very often it happens that they kidnap even noblemen and our relatives, and take them to be sold to the white men who are in our kingdoms.\"\nLetter from King Afonso I of Kongo to King John III of Portugal, 1526\nSource 2:\n\"This expedition has cost us much: it would be unreasonable to send it home with empty hands. Although our [principal] wish is to serve God and the pleasure of the king of Kongo, none the less you will make him understand—as though speaking in our name—what he should do to fill the ships, whether with slaves, or copper, or ivory.\"\nInstructions from King Manuel of Portugal to his envoy in Kongo, 1512\nThe tone of the first letter best reflects which of the following developments in early modern Africa?",
+    "choices": [
+      "A growing dependence on trade with Europe for manufactured goods",
+      "Vigorous resistance to European expeditions of conquest",
+      "The establishment of Portuguese trading posts along the coastline",
+      "The consolidation of states along the Atlantic coast of Africa"
+    ],
+    "answer_idx": 0,
+    "answer_text": "A growing dependence on trade with Europe for manufactured goods"
+  },
+  {
+    "qid": "mmlu_high_school_world_history_0045",
+    "subject": "high_school_world_history",
+    "question": "This question refers to the following information.\nSource 1:\n\"It is impossible to demand that an impossible position should be cleared up by peaceful revision and at the same time constantly reject peaceful revision. It is also impossible to say that he who undertakes to carry out these revisions for himself transgresses a law, since the Versailles \"Diktat\" is not law to us. A signature was forced out of us with pistols at our head and with the threat of hunger for millions of people. And then this document, with our signature, obtained by force, was proclaimed as a solemn law.\"\nAdolf Hitler, speech to the Reichstag, September 1, 1939\nSource 2:\n\"We shall not flag or fail. We shall go on to the end. We shall fight in France, we shall fight on the seas and the oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our island, whatever the cost may be. We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender.\"\nWinston Churchill, speech before Parliament, June 4, 1940\nWinston Churchill's speech in Source 2 is best understood in the context of which of the following?",
+    "choices": [
+      "British support for growing resistance movements in Eastern Europe",
+      "British trade deals with American manufacturers of military hardware",
+      "British appeasement of the Axis powers",
+      "British fears about a possible invasion attempt by Nazi Germany"
+    ],
+    "answer_idx": 3,
+    "answer_text": "British fears about a possible invasion attempt by Nazi Germany"
+  },
+  {
+    "qid": "mmlu_high_school_world_history_0165",
+    "subject": "high_school_world_history",
+    "question": "This question refers to the following information.\n\"Article 1\nThe Parties undertake, as set forth in the Charter of the United Nations, to settle any international dispute in which they may be involved by peaceful means in such a manner that international peace and security and justice are not endangered, and to refrain in their international relations from the threat or use of force in any manner inconsistent with the purposes of the United Nations.\n\"Article 2\nThe Parties will contribute toward the further development of peaceful and friendly international relations by strengthening their free institutions, by bringing about a better understanding of the principles upon which these institutions are founded, and by promoting conditions of stability and well-being. They will seek to eliminate conflict in their international economic policies and will encourage economic collaboration between any or all of them.\n\"Article 3\nIn order more effectively to achieve the objectives of this Treaty, the Parties, separately and jointly, by means of continuous and effective self-help and mutual aid, will maintain and develop their individual and collective capacity to resist armed attack…\n\"Article 5\nThe Parties agree that an armed attack against one or more of them in Europe or North America shall be considered an attack against them all and consequently they agree that, if such an armed attack occurs, each of them, in exercise of the right of individual or collective self-defence recognised by Article 51 of the Charter of the United Nations, will assist the Party or Parties so attacked by taking forthwith, individually and in concert with the other Parties, such action as it deems necessary, including the use of armed force, to restore and maintain the security of the North Atlantic area.\"\nNorth Atlantic Treaty, April 4, 1949\nBased on the treaty, the United Nations mentioned in the first paragraph is an example of which of the following?",
+    "choices": [
+      "An organization dedicated to asserting an ideological tenet over the world",
+      "An organization opposed to the use of force between nations in any situation",
+      "An organization dedicated to providing avenues of arbitration of disputes for the nations of the world",
+      "An organization dedicated to expanding free trade across international borders"
+    ],
+    "answer_idx": 2,
+    "answer_text": "An organization dedicated to providing avenues of arbitration of disputes for the nations of the world"
+  },
+  {
+    "qid": "mmlu_high_school_world_history_0112",
+    "subject": "high_school_world_history",
+    "question": "This question refers to the following information.\nSource 1:\n\"The Sovereign Congress of Venezuela, to which authority the people of the Republic of the New Granada have voluntarily stood by.\nConsidering:\n1. \"That united in a single Republic, the provinces of Venezuela and the New Granada have all proportions and ways to elevate themselves to a higher grade of power and prosperity.\n2. \"That constituted in separate republics, for any more stronger the ties that these have united them, so far from taking advantages of so many advantages, they would hardly consolidate and make respect their sovereignty.\n3. \"That these truths, highly penetrated by superior talented men and of an enlightened patriotism, had moved the governments of both republics to convene in a reunion that the vicissitudes of wars decreed and decree the following fundamental Law of the Republic of Colombia:\nARTICLE 1. The Republics of Venezuela and New Granada are from this day on united in a single one under the glorious title of Republic of Colombia….\nARTICLE 4. The Executive Power of the Republic will be vested on the President and in case of his defect a Vice President and his replacement will be appointed interimly by the acting Congress.\"\nFundamental Law Establishing Gran Colombia, passed by the Congress of Angostura convened by Simon Bolivar, 1819\nSource 2:\n\"IN THE NAME OF THE HOLY TRINITY.\nTITLE 1 - Of the Empire of Brazil, its Territories, Government, dynasty, and Religion.\nArt. 1. The EMPIRE of Brazil is the political association for all Brazilian citizens. These will form a free and independent nation, and will not form any other union or federation, which may cause it to lose its own Independence.\nArt. 2. Its territory is divided into provinces in the form in which it currently finds itself; these may be subdivided, as is required for the good of the state.\nArt. 3. Its government is a Hereditary Monarchy, constitutional, and Representative.\nArt. 4. The prevailing dynasty is that of the Lord Dom Pedro I, the sitting Emperor and Perpetual Defender of Brazil.\nArt. 5. The Catholic Apostolic Roman Religion will continue to be the religion of the Empire. Followers of all other religions are allowed to worship within their households, or particular houses for that intent, so long as there is nothing indicating this on the exterior of the Temple.\"\nConstitution of the Empire of Brazil, March 25, 1824\nTaken together, the two sources best illustrate which of the following aspects of political philosophy in the period circa 1750–1900 C.E.?",
+    "choices": [
+      "Constitutions around the world decreed representative governments for their citizens.",
+      "Monarchs exerted a great deal of influence in their nations' governments.",
+      "Military dictatorships often supplanted democratic governments.",
+      "Industrialization propelled societies to demand more social obligations from their governments."
+    ],
+    "answer_idx": 0,
+    "answer_text": "Constitutions around the world decreed representative governments for their citizens."
+  },
+  {
+    "qid": "mmlu_high_school_world_history_0015",
+    "subject": "high_school_world_history",
+    "question": "This question refers to the following information.\nThe condition of foreign states is not what it once was; they have invented the steamship, and introduced radical changes in the art of navigation. They have also built up their armies to a state of great efficiency and are possessed of war implements of great power and precision, in short have license to be formidable powers. If, therefore, we persistently cling to our antiquated systems, heaven only knows what a mighty calamity may befall our Empire.\n—Adapted from a letter written by Lord Ii to Lord Tokugawa, 1847\nWhich event or period in Japan's history best reflects Lord Ii's concerns?",
+    "choices": [
+      "The expulsion of Christian missionaries from Japan",
+      "The adoption of Chinese imperial customs in the Japanese court",
+      "The annexation of Manchuria by the Japanese",
+      "Commodore Perry forcing Japan to open its ports to trade"
+    ],
+    "answer_idx": 3,
+    "answer_text": "Commodore Perry forcing Japan to open its ports to trade"
+  },
+  {
+    "qid": "mmlu_high_school_world_history_0192",
+    "subject": "high_school_world_history",
+    "question": "This question refers to the following information.\nSource 1:\n\"Moreover, Sir, in our Kingdoms there is another great inconvenience which is of little service to God, and this is that many of our people, keenly desirous as they are of the wares and things of your Kingdoms, which are brought here by your people, and in order to satisfy their voracious appetite, seize many of our people, freed and exempt men, and very often it happens that they kidnap even noblemen and our relatives, and take them to be sold to the white men who are in our kingdoms.\"\nLetter from King Afonso I of Kongo to King John III of Portugal, 1526\nSource 2:\n\"This expedition has cost us much: it would be unreasonable to send it home with empty hands. Although our [principal] wish is to serve God and the pleasure of the king of Kongo, none the less you will make him understand—as though speaking in our name—what he should do to fill the ships, whether with slaves, or copper, or ivory.\"\nInstructions from King Manuel of Portugal to his envoy in Kongo, 1512\nThe interactions described in the letters are best understood in the context of which of the following?",
+    "choices": [
+      "Portuguese exploration of the coast of West Africa",
+      "Catholic missionary efforts in Sub-Saharan Africa",
+      "State formation in Sub-Saharan Africa",
+      "Development of the slave trade in Sub-Saharan Africa"
+    ],
+    "answer_idx": 3,
+    "answer_text": "Development of the slave trade in Sub-Saharan Africa"
+  },
+  {
+    "qid": "mmlu_high_school_world_history_0084",
+    "subject": "high_school_world_history",
+    "question": "This question refers to the following information.\n\"The Chinese are all infidels: they worship images, and burn their dead just like the [Hindus]. The King of China is a Tartar, and one of the descendants of [Ghenghis] Khan…In all the Chinese provinces, there is a town for the [Muslims], and in this they reside. They also have cells, colleges, and mosques, and are made much of by the Kings of China…\nWhen we approached this city [of Hangzhou] we were met by its judge, the [elders] of Islamism, and the great merchants. The [Muslims] are exceedingly numerous here. This whole city is surrounded by a wall: each of the six [districts of Hangzhou] is also surrounded by a wall. In the first reside the guards, with their commander. I was told that, in the muster-rolls, these amount to twelve thousand…In the second division are the Jews, Christians, and the Turks who worship the sun: these are numerous, their number is not known: and theirs is the most beautiful city. Their streets are well disposed, and their great men are exceedingly wealthy. There are in the city a great number of [Muslims], with some of whom I resided for fifteen days; and was treated most [honorably]…\"\nIbn Battuta, Voyages, 1332–1346 C.E.\nWhich of the following conclusions about the period 600 C.E.–1450 C.E. is most directly supported by the passage?",
+    "choices": [
+      "Long-distance contact between civilizations stagnated.",
+      "New religious traditions overturned prior lasting religious beliefs.",
+      "The empires of steppe nomads united trade links across Eurasia.",
+      "Technological developments spread across trade routes."
+    ],
+    "answer_idx": 2,
+    "answer_text": "The empires of steppe nomads united trade links across Eurasia."
+  },
+  {
+    "qid": "mmlu_high_school_world_history_0000",
+    "subject": "high_school_world_history",
+    "question": "This question refers to the following information.\nNo task is more urgent than that of preserving peace. Without peace our independence means little. The rehabilitation and upbuilding of our countries will have little meaning. Our revolutions will not be allowed to run their course. What can we do? We can do much! We can inject the voice of reason into world affairs. We can mobilize all the spiritual, all the moral, all the political strength of Asia and Africa on the side of peace. Yes, we! We, the peoples of Asia and Africa, 1.4 billion strong.\nIndonesian leader Sukarno, keynote address to the Bandung Conference, 1955\nThe passage above is most associated with which of the following developments?",
+    "choices": [
+      "The formation of the non-aligned movement",
+      "Global disarmanent and nuclear non-proliferation",
+      "The Green Revolution in agriculture",
+      "Mobilization of pan-Asian ideology"
+    ],
+    "answer_idx": 0,
+    "answer_text": "The formation of the non-aligned movement"
+  },
+  {
+    "qid": "mmlu_jurisprudence_0064",
+    "subject": "jurisprudence",
+    "question": "Which statement is closest to characterizing the principal difference between the positions adopted by Hobbes and Locke?",
+    "choices": [
+      "They adopt different attitudes towards the role of the courts in maintaining order.",
+      "They disagree about the role of law in society.",
+      "They have opposing views about the nature of contractual obligations.",
+      "They differ in respect of their account of life before the social contract."
+    ],
+    "answer_idx": 3,
+    "answer_text": "They differ in respect of their account of life before the social contract."
+  },
+  {
+    "qid": "mmlu_jurisprudence_0000",
+    "subject": "jurisprudence",
+    "question": "Which statement best explains the purpose of Hart's distinction between 'being obliged' and 'having an obligation'?",
+    "choices": [
+      "It demonstrates the difference between the internal and the external aspect of a rule.",
+      "It refutes the natural lawyer' view of the role of morality in law.",
+      "It explains the nature of power-conferring rules.",
+      "It illuminates the concept of a rule."
+    ],
+    "answer_idx": 3,
+    "answer_text": "It illuminates the concept of a rule."
+  },
+  {
+    "qid": "mmlu_jurisprudence_0003",
+    "subject": "jurisprudence",
+    "question": "Which of the following criticisms of Llewellyn's distinction between the grand and formal styles of legal reasoning is the most compelling?",
+    "choices": [
+      "There is no distinction between the two forms of legal reasoning.",
+      "Judges are appointed to interpret the law, not to make it.",
+      "It is misleading to pigeon-hole judges in this way.",
+      "Judicial reasoning is always formal."
+    ],
+    "answer_idx": 2,
+    "answer_text": "It is misleading to pigeon-hole judges in this way."
+  },
+  {
+    "qid": "mmlu_jurisprudence_0005",
+    "subject": "jurisprudence",
+    "question": "The ________ School believes that promoting market efficiency should be the central goal of legal decision-making.",
+    "choices": [
+      "Law and Economics",
+      "Critical Legal Studies",
+      "Historical",
+      "Natural Law"
+    ],
+    "answer_idx": 0,
+    "answer_text": "Law and Economics"
+  },
+  {
+    "qid": "mmlu_jurisprudence_0022",
+    "subject": "jurisprudence",
+    "question": "Adherence to precedent is called the doctrine of ________.",
+    "choices": [
+      "nolo contendere",
+      "stare decisis",
+      "substantial performance",
+      "commercial impracticability"
+    ],
+    "answer_idx": 1,
+    "answer_text": "stare decisis"
+  },
+  {
+    "qid": "mmlu_jurisprudence_0101",
+    "subject": "jurisprudence",
+    "question": "What is Kant's 'categorical imperative?",
+    "choices": [
+      "You must not consciously harm another person.",
+      "You must always act in the best interests of the community.",
+      "You must treat human beings as means rather than ends.",
+      "You must act according as if your values apply to everyone."
+    ],
+    "answer_idx": 3,
+    "answer_text": "You must act according as if your values apply to everyone."
+  },
+  {
+    "qid": "mmlu_jurisprudence_0001",
+    "subject": "jurisprudence",
+    "question": "Maine's famous aphorism that 'the movement of progressive societies has hitherto been a movement from Status to Contract' is often misunderstood. In what way?",
+    "choices": [
+      "It is misinterpreted as a prediction.",
+      "His concept of status is misrepresented.",
+      "It is taken literally.",
+      "His idea is considered inapplicable to Western legal systems."
+    ],
+    "answer_idx": 0,
+    "answer_text": "It is misinterpreted as a prediction."
+  },
+  {
+    "qid": "mmlu_jurisprudence_0059",
+    "subject": "jurisprudence",
+    "question": "Bill purchased a can of Sipep from the Ajax Minimart. After he finished drinking the Sipep, Bill noticed that the can contained dead insects stuck on the inside bottom of the can. In a strict product liability tort action against Ajax, Bill must prove, among other things, that:",
+    "choices": [
+      "Ajax is a merchant selling Sipep.",
+      "Ajax knew or should have known of the defective condition",
+      "Ajax had prior notice of other similar problems with Sipep products.",
+      "Ajax actually placed the dead insects into the can."
+    ],
+    "answer_idx": 0,
+    "answer_text": "Ajax is a merchant selling Sipep."
+  },
+  {
+    "qid": "mmlu_jurisprudence_0041",
+    "subject": "jurisprudence",
+    "question": "How does Nozick answer the criticism of his historical entitlement theory that if the distribution of goods in society is unjust those at the bottom always lose?",
+    "choices": [
+      "It can be remedied by redistribution of wealth.",
+      "If each person's holdings are just, then the total distribution of holdings is just.",
+      "Historical factors are secondary to moral imperatives.",
+      "He has no answer."
+    ],
+    "answer_idx": 1,
+    "answer_text": "If each person's holdings are just, then the total distribution of holdings is just."
+  },
+  {
+    "qid": "mmlu_jurisprudence_0104",
+    "subject": "jurisprudence",
+    "question": "Which of the following statements most accurately explains Ross' comparison of social life to the game of chess?",
+    "choices": [
+      "Chess is a game of skill; success in life is also a matter of skill.",
+      "Winning a game of chess, like life, frequently depends on luck.",
+      "In both games of chess and social life, there is effectively a dispute or contest.",
+      "Social life is similar to chess because individual actions are often related to a common idea of rules."
+    ],
+    "answer_idx": 3,
+    "answer_text": "Social life is similar to chess because individual actions are often related to a common idea of rules."
+  },
+  {
+    "qid": "mmlu_medical_genetics_0014",
+    "subject": "medical_genetics",
+    "question": "Which of the following is an example of monosomy?",
+    "choices": [
+      "46,XX",
+      "47,XXX",
+      "69,XYY",
+      "45,X"
+    ],
+    "answer_idx": 3,
+    "answer_text": "45,X"
+  },
+  {
+    "qid": "mmlu_medical_genetics_0067",
+    "subject": "medical_genetics",
+    "question": "Which of the following disorders does not show X-linked inheritance?",
+    "choices": [
+      "Duchenne muscular dystrophy",
+      "Tay-Sachs disease",
+      "Haemophilia A",
+      "Haemophilia B"
+    ],
+    "answer_idx": 1,
+    "answer_text": "Tay-Sachs disease"
+  },
+  {
+    "qid": "mmlu_medical_genetics_0025",
+    "subject": "medical_genetics",
+    "question": "Nature is more important for ______ differences, while nurture has greater influence on ______ differences.",
+    "choices": [
+      "structural and anatomical; psychological and social",
+      "psychological and social; structural and anatomical",
+      "structural and psychological; anatomical and social",
+      "social and anatomical; psychological and structural"
+    ],
+    "answer_idx": 0,
+    "answer_text": "structural and anatomical; psychological and social"
+  },
+  {
+    "qid": "mmlu_medical_genetics_0093",
+    "subject": "medical_genetics",
+    "question": "Twin studies in humans are useful because",
+    "choices": [
+      "they allow genetic as opposed to environmental influences on variation in a trait to be estimated",
+      "cloning of genes is facilitated by the presence of extra copies",
+      "they allow improved expression of genes",
+      "twins have a greater likelihood of being heterozygous"
+    ],
+    "answer_idx": 0,
+    "answer_text": "they allow genetic as opposed to environmental influences on variation in a trait to be estimated"
+  },
+  {
+    "qid": "mmlu_medical_genetics_0023",
+    "subject": "medical_genetics",
+    "question": "Homeobox sequences",
+    "choices": [
+      "are present in the genome of many animal species",
+      "are found in prokaryotes but not in eukaryotes",
+      "were identified as the integration sites for bacterial viruses",
+      "represent integration sites for transposable elements"
+    ],
+    "answer_idx": 0,
+    "answer_text": "are present in the genome of many animal species"
+  },
+  {
+    "qid": "mmlu_medical_genetics_0051",
+    "subject": "medical_genetics",
+    "question": "On average, how many fragments would a restriction enzyme which recognizes a specific 4 base sequence in DNA be expected to cleave a double-stranded bacteriophage with a genome size of 5,000 bp into?",
+    "choices": [
+      "about 2",
+      "about 4",
+      "about 20",
+      "about 50"
+    ],
+    "answer_idx": 2,
+    "answer_text": "about 20"
+  },
+  {
+    "qid": "mmlu_medical_genetics_0022",
+    "subject": "medical_genetics",
+    "question": "The pattern of inheritance shown by glucose-6-phosphate dehydrogenase (G6PD) deficiency is:",
+    "choices": [
+      "autosomal dominant.",
+      "autosomal recessive.",
+      "X-linked dominant.",
+      "X-linked recessive."
+    ],
+    "answer_idx": 3,
+    "answer_text": "X-linked recessive."
+  },
+  {
+    "qid": "mmlu_medical_genetics_0054",
+    "subject": "medical_genetics",
+    "question": "Transcriptional activator proteins",
+    "choices": [
+      "bind regions near a eukaryotic gene and allow an RNA polymerase to transcribe a gene",
+      "bind to ribosomes to activate the production of specific proteins",
+      "are produced during an infection of bacteria by a phage",
+      "are essential to function of transfer RNAs during translation"
+    ],
+    "answer_idx": 0,
+    "answer_text": "bind regions near a eukaryotic gene and allow an RNA polymerase to transcribe a gene"
+  },
+  {
+    "qid": "mmlu_medical_genetics_0084",
+    "subject": "medical_genetics",
+    "question": "A baby born with pulmonary hypoplasia secondary to oligohydramnios caused by renal agenesis would be classified as having:",
+    "choices": [
+      "an association.",
+      "a dysplasia.",
+      "a sequence.",
+      "a syndrome."
+    ],
+    "answer_idx": 2,
+    "answer_text": "a sequence."
+  },
+  {
+    "qid": "mmlu_medical_genetics_0096",
+    "subject": "medical_genetics",
+    "question": "A high blood ammonia level occurs in:",
+    "choices": [
+      "galactosaemia.",
+      "Hurler's syndrome.",
+      "ornithine transcarbamylase (OTC) deficiency.",
+      "phenylketonuria."
+    ],
+    "answer_idx": 2,
+    "answer_text": "ornithine transcarbamylase (OTC) deficiency."
+  },
+  {
+    "qid": "mmlu_nutrition_0045",
+    "subject": "nutrition",
+    "question": "Which of the following statements is incorrect regarding fatty acid ß-oxidation?\n",
+    "choices": [
+      "The major site of fatty acid ß-oxidation is the peroxisomes, the mitochondria also contain enzymes for this pathway",
+      "Within the liver peroxisomes serve to oxidise very long chain fatty acids to medium chain products",
+      "The rate of b-oxidation is regulated by the availability of fatty acids and the rate of utilisation of b-oxidation products",
+      "Peroxisomes are the site for the degradation of xenobiotics and eicosanoids"
+    ],
+    "answer_idx": 0,
+    "answer_text": "The major site of fatty acid ß-oxidation is the peroxisomes, the mitochondria also contain enzymes for this pathway"
+  },
+  {
+    "qid": "mmlu_nutrition_0194",
+    "subject": "nutrition",
+    "question": "Under conditions of metabolic or other stress, which of the following amino acids generally regarded as being dispensable may be required in greater amount than can readily be synthesised in the body?\n",
+    "choices": [
+      "Glutamate",
+      "Alanine",
+      "Aspartate",
+      "Glycine"
+    ],
+    "answer_idx": 3,
+    "answer_text": "Glycine"
+  },
+  {
+    "qid": "mmlu_nutrition_0065",
+    "subject": "nutrition",
+    "question": "What is the main source of protein in the British diet?\n",
+    "choices": [
+      "Fish and fish products",
+      "Pulses",
+      "Meat and meat products",
+      "Milk and milk products"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Meat and meat products"
+  },
+  {
+    "qid": "mmlu_nutrition_0119",
+    "subject": "nutrition",
+    "question": "Nutrients may pose health risks:\n",
+    "choices": [
+      "When intakes exceed established ULs (Upper Levels)",
+      "At any level greater than a recommended dietary intake",
+      "Only when intakes are less than those required for nutritional benefits",
+      "Under no known conditions of usual intake"
+    ],
+    "answer_idx": 0,
+    "answer_text": "When intakes exceed established ULs (Upper Levels)"
+  },
+  {
+    "qid": "mmlu_nutrition_0208",
+    "subject": "nutrition",
+    "question": "Which of the following are the recommended blood pressure and lipid goals for the prevention of cardiovascular disease in adults with diabetes?\n",
+    "choices": [
+      "BP < 140/90, Trig <150, LDL < 100",
+      "BP < 130/85, Trig < 300, LDL < 100",
+      "BP < 135/80, Trig < 200, LDL < 130",
+      "BP < 130/80, Trig <150, LDL < 100"
+    ],
+    "answer_idx": 3,
+    "answer_text": "BP < 130/80, Trig <150, LDL < 100"
+  },
+  {
+    "qid": "mmlu_nutrition_0027",
+    "subject": "nutrition",
+    "question": "Which of the following statements concerning transamination is correct?\n",
+    "choices": [
+      "Only non-essential (dispensable) amino acids undergo transamination.",
+      "Transamination is an irreversible reaction in amino acid catabolism.",
+      "Transaminases require a coenzyme derived from vitamin B12.",
+      "Transaminases require a coenzyme derived from vitamin B6."
+    ],
+    "answer_idx": 3,
+    "answer_text": "Transaminases require a coenzyme derived from vitamin B6."
+  },
+  {
+    "qid": "mmlu_nutrition_0000",
+    "subject": "nutrition",
+    "question": "Which foods tend to be consumed in lower quantities in Wales and Scotland (as of 2020)?\n",
+    "choices": [
+      "Meat",
+      "Confectionary",
+      "Fruits and vegetables",
+      "Potatoes"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Fruits and vegetables"
+  },
+  {
+    "qid": "mmlu_nutrition_0058",
+    "subject": "nutrition",
+    "question": "The safety of which of the following substances must be demonstrated prior to their introduction into food?\n",
+    "choices": [
+      "Pesticide chemicals",
+      "Substances migrating from food packaging",
+      "Colour additives",
+      "All of the above"
+    ],
+    "answer_idx": 3,
+    "answer_text": "All of the above"
+  },
+  {
+    "qid": "mmlu_nutrition_0048",
+    "subject": "nutrition",
+    "question": "According to trials on diabetes prevention, high-risk individuals can reduce their risk to develop diabetes by doing the following:\n",
+    "choices": [
+      "Eating a very low carbohydrate diet",
+      "Consuming a diet high in monounsaturated fats",
+      "Losing 5-7% of body weight through a hypocaloric low fat diet and 30 minutes of daily activity",
+      "Initiating metformin 850 mg BID and practicing daily vigorous exercise"
+    ],
+    "answer_idx": 2,
+    "answer_text": "Losing 5-7% of body weight through a hypocaloric low fat diet and 30 minutes of daily activity"
+  },
+  {
+    "qid": "mmlu_nutrition_0037",
+    "subject": "nutrition",
+    "question": "Which one of the following statements about protein nutrition is correct?\n",
+    "choices": [
+      "There is a requirement for dietary protein, but it is unimportant which protein is consumed.",
+      "The requirement for dietary protein is for individual amino acids, not simply the total amount of protein in the diet.",
+      "All dietary proteins have the same amino acid content and composition.",
+      "For an adult in nitrogen equilibrium there is only a small requirement for an intake of protein since amino acids arising from tissue protein catabolism are available for new protein synthesis."
+    ],
+    "answer_idx": 1,
+    "answer_text": "The requirement for dietary protein is for individual amino acids, not simply the total amount of protein in the diet."
+  },
+  {
+    "qid": "mmlu_prehistory_0277",
+    "subject": "prehistory",
+    "question": "At its height, only about _______ of the Incan empire was composed of ethnic Inca.",
+    "choices": [
+      "1 percent",
+      "10 percent",
+      "30 percent",
+      "50 percent"
+    ],
+    "answer_idx": 0,
+    "answer_text": "1 percent"
+  },
+  {
+    "qid": "mmlu_prehistory_0319",
+    "subject": "prehistory",
+    "question": "Archaeological evidence for the production of cheese and yogurt in Europe suggests that dairying became an important part of subsistence by ______ years ago, with _______ providing an adaptive advantage.",
+    "choices": [
+      "10,000; artificial selection for certain varieties of cheese",
+      "7,500; the lactase persistence mutation",
+      "5,500; domesticated cattle",
+      "3,500; certain strains of lactose-free cheese and yogurt"
+    ],
+    "answer_idx": 1,
+    "answer_text": "7,500; the lactase persistence mutation"
+  },
+  {
+    "qid": "mmlu_prehistory_0033",
+    "subject": "prehistory",
+    "question": "How did Aurignacian technology differ from Mousterian technology?",
+    "choices": [
+      "Mousterian technology produced more projectile points.",
+      "Mousterian technology produced more usable blade surface.",
+      "Aurignacian technology produced more usable blade surface.",
+      "Aurignacian technology was focused on the production of hand axes."
+    ],
+    "answer_idx": 2,
+    "answer_text": "Aurignacian technology produced more usable blade surface."
+  },
+  {
+    "qid": "mmlu_prehistory_0168",
+    "subject": "prehistory",
+    "question": "For which of the following is there evidence for Neandertals?",
+    "choices": [
+      "Neandertals adorned themselves with pendants and necklaces.",
+      "Neandertals buried their dead.",
+      "Neandertals produced and used complex stone tools.",
+      "All of the above."
+    ],
+    "answer_idx": 3,
+    "answer_text": "All of the above."
+  },
+  {
+    "qid": "mmlu_prehistory_0118",
+    "subject": "prehistory",
+    "question": "Based on the morphology of fossil hominids dating from about 1.8 million until about 400,000 years ago, researchers argue that:",
+    "choices": [
+      "there were two or more related but geographically separate hominid species during this period that evolved from earlier African hominids",
+      "hominids dating from this time can be grouped into different species in Africa, Asia, and Europe.",
+      "all of the hominids that evolved from Homo habilis and predate Homo sapiens belong in a single, geographically widespread but morphologically diverse species known as Homo erectus.",
+      "all of the above"
+    ],
+    "answer_idx": 3,
+    "answer_text": "all of the above"
+  },
+  {
+    "qid": "mmlu_prehistory_0178",
+    "subject": "prehistory",
+    "question": "Taphonomy is:",
+    "choices": [
+      "a systematic classification based on similarities and differences.",
+      "a dating technique based on the decay of a radioactive isotope of bone.",
+      "a study of the spatial relationships among artifacts, ecofacts, and features.",
+      "the study of how materials ended up in a particular place."
+    ],
+    "answer_idx": 3,
+    "answer_text": "the study of how materials ended up in a particular place."
+  },
+  {
+    "qid": "mmlu_prehistory_0111",
+    "subject": "prehistory",
+    "question": "The controversial theory that people from present-day Europe colonized North America at the end of Pleistocene is:",
+    "choices": [
+      "supported by genetic evidence that establishes close connections between the oldest skeletons in the Americas and the European genome.",
+      "refuted by genetic evidence from the oldest skeletons in the Americas that establishes close connections between modern Native Americans and the native people of central Siberia.",
+      "proven by genetic evidence that establishes close connections between the oldest skeletons in the Americas and Norse explorers who arrived in northeastern Canada around A.D. 1000.",
+      "refuted by the complete absence of documents that record a migration of Europeans into the Americas."
+    ],
+    "answer_idx": 1,
+    "answer_text": "refuted by genetic evidence from the oldest skeletons in the Americas that establishes close connections between modern Native Americans and the native people of central Siberia."
+  },
+  {
+    "qid": "mmlu_prehistory_0002",
+    "subject": "prehistory",
+    "question": "When anatomically modern humans first arrived in the Middle East, who did they encounter?",
+    "choices": [
+      "Neandertals, the evolutionary descendants of the premodern human inhabitants of Europe and Asia",
+      "Homo erectus, the evolutionary descendants of the premodern human inhabitants of Europe and Asia",
+      "Homo sapiens, who had evolved independently in Asia and arrived there by 200,000 years ago",
+      "All of the above"
+    ],
+    "answer_idx": 0,
+    "answer_text": "Neandertals, the evolutionary descendants of the premodern human inhabitants of Europe and Asia"
+  },
+  {
+    "qid": "mmlu_prehistory_0150",
+    "subject": "prehistory",
+    "question": "The population of the Valley of Mexico was supported by means of:",
+    "choices": [
+      "long-distance trade, salt mining, and stone masonry.",
+      "hunting and gathering, fishing, and cultivation of root crops.",
+      "advanced medical, artisanal, and metallurgical technologies.",
+      "agricultural irrigation, terraces, and artificially raised fields called chinampas."
+    ],
+    "answer_idx": 3,
+    "answer_text": "agricultural irrigation, terraces, and artificially raised fields called chinampas."
+  },
+  {
+    "qid": "mmlu_prehistory_0301",
+    "subject": "prehistory",
+    "question": "The pharaoh ruled a population of ________, of which _________ were farmers.",
+    "choices": [
+      "100,000; 25%",
+      "1,000,000; 50%",
+      "3,000,000; 75%",
+      "5,000,000; 100%"
+    ],
+    "answer_idx": 2,
+    "answer_text": "3,000,000; 75%"
+  },
+  {
+    "qid": "mmlu_sociology_0080",
+    "subject": "sociology",
+    "question": "Sreberny-Mohammadi (1996) argues that national cultures can resist American cultural domination of the media by:",
+    "choices": [
+      "domesticating its content, including more 'home-produced' programmes",
+      "controlling the distribution of imported products by banning satellite dishes",
+      "creating 'reverse flows' of their own programmes back to imperial societies",
+      "all of the above"
+    ],
+    "answer_idx": 3,
+    "answer_text": "all of the above"
+  },
+  {
+    "qid": "mmlu_sociology_0177",
+    "subject": "sociology",
+    "question": "The deviant subculture of homosexuals who met in seventeenth and eighteenth century London was called the:",
+    "choices": [
+      "pollies",
+      "mollies",
+      "dollies",
+      "lollies"
+    ],
+    "answer_idx": 1,
+    "answer_text": "mollies"
+  },
+  {
+    "qid": "mmlu_sociology_0192",
+    "subject": "sociology",
+    "question": "Which of the following is not a consequence of global tourism?",
+    "choices": [
+      "decreased rates of prostitution and sex tourism",
+      "developing countries can depend on it as a crucial source of income",
+      "the exploitation of cheap, unregulated labour in poor countries",
+      "we have become more aware of 'other' societies and ways of living"
+    ],
+    "answer_idx": 0,
+    "answer_text": "decreased rates of prostitution and sex tourism"
+  },
+  {
+    "qid": "mmlu_sociology_0001",
+    "subject": "sociology",
+    "question": "The ecological approach to urban sociology involved studying:",
+    "choices": [
+      "how social groups colonized different areas of the city and competed for resources",
+      "the forms of wildlife and natural habitats that could be found on the edges of the city",
+      "the way in which people organized collective protests about environmental issues",
+      "how men and women used the city's public spaces differently"
+    ],
+    "answer_idx": 0,
+    "answer_text": "how social groups colonized different areas of the city and competed for resources"
+  },
+  {
+    "qid": "mmlu_sociology_0060",
+    "subject": "sociology",
+    "question": "According to Hakim (1995, 1996), the majority of part-time work is done by women because:",
+    "choices": [
+      "part-time jobs pay relatively high wages and so are financially beneficial",
+      "they make a rational choice to combine employment with their 'home-centred' lives",
+      "their choices are constrained by structural factors, such as being unable to afford childcare",
+      "full time work is not available in the kinds of occupations that they want to enter"
+    ],
+    "answer_idx": 1,
+    "answer_text": "they make a rational choice to combine employment with their 'home-centred' lives"
+  },
+  {
+    "qid": "mmlu_sociology_0139",
+    "subject": "sociology",
+    "question": "According to Foucault, carceral organizations:",
+    "choices": [
+      "emphasised human relations and employee satisfaction",
+      "increased the amount of power held by managers",
+      "stripped inmates of their previous identities",
+      "isolated people and put them under surveillance"
+    ],
+    "answer_idx": 3,
+    "answer_text": "isolated people and put them under surveillance"
+  },
+  {
+    "qid": "mmlu_sociology_0041",
+    "subject": "sociology",
+    "question": "The Macpherson Report highlighted the increasing problem of:",
+    "choices": [
+      "hate crimes: violence against ethnic minorities simply because of their race",
+      "institutional racism: systematic forms of disadvantage built into the routines and practices of social institutions",
+      "overt racism in the police force that must be tackled by institutional reforms",
+      "growing numbers of asylum seekers in need of long term accommodation"
+    ],
+    "answer_idx": 1,
+    "answer_text": "institutional racism: systematic forms of disadvantage built into the routines and practices of social institutions"
+  },
+  {
+    "qid": "mmlu_sociology_0090",
+    "subject": "sociology",
+    "question": "Post-Fordist forms of media production and consumption involve:",
+    "choices": [
+      "the mass production of standardized products for passive audiences",
+      "television based on producer-broadcaster rather than publisher-broadcaster models",
+      "a diverse range of products aimed at niche markets",
+      "increasing numbers of advertisements for motoring and car-related products"
+    ],
+    "answer_idx": 2,
+    "answer_text": "a diverse range of products aimed at niche markets"
+  },
+  {
+    "qid": "mmlu_sociology_0189",
+    "subject": "sociology",
+    "question": "Which of the following is not identified by Fulcher & Scott as a criterion of community?",
+    "choices": [
+      "a shared sense of identity and belonging together",
+      "common activities involving all-round relationships",
+      "a fixed geographical location",
+      "collective action based on common interests"
+    ],
+    "answer_idx": 2,
+    "answer_text": "a fixed geographical location"
+  },
+  {
+    "qid": "mmlu_sociology_0040",
+    "subject": "sociology",
+    "question": "The terms 'crisis of the 1970s' is used to refer to:",
+    "choices": [
+      "declining profits and rising unemployment",
+      "the eradication of the welfare state",
+      "rising divorce rates and the decline of the traditional family",
+      "an unfortunate twist in fashion sensibility"
+    ],
+    "answer_idx": 0,
+    "answer_text": "declining profits and rising unemployment"
+  },
+  {
+    "qid": "mmlu_world_religions_0081",
+    "subject": "world_religions",
+    "question": "Krishna and Rama are incarnations of which Hindu god?",
+    "choices": [
+      "Shiva",
+      "Vishnu",
+      "Brahma",
+      "Ganesha"
+    ],
+    "answer_idx": 1,
+    "answer_text": "Vishnu"
+  },
+  {
+    "qid": "mmlu_world_religions_0114",
+    "subject": "world_religions",
+    "question": " In Buddhism, what are ordained women known as?",
+    "choices": [
+      "Bhikshus",
+      "Bhikshunis",
+      "The Sangha",
+      "Arhats"
+    ],
+    "answer_idx": 1,
+    "answer_text": "Bhikshunis"
+  },
+  {
+    "qid": "mmlu_world_religions_0152",
+    "subject": "world_religions",
+    "question": " In Jainism, what is the cycle that one must liberate oneself from?",
+    "choices": [
+      "Punya",
+      "Samsara",
+      "Samayika",
+      "Jiva"
+    ],
+    "answer_idx": 1,
+    "answer_text": "Samsara"
+  },
+  {
+    "qid": "mmlu_world_religions_0089",
+    "subject": "world_religions",
+    "question": "What does \"Mahavira\" mean?",
+    "choices": [
+      "\"Great Hero\"",
+      "\"Master\"",
+      "\"The Lesser One\"",
+      "\"Mendicant\""
+    ],
+    "answer_idx": 0,
+    "answer_text": "\"Great Hero\""
+  },
+  {
+    "qid": "mmlu_world_religions_0022",
+    "subject": "world_religions",
+    "question": " What interior discipline must be adopted to achieve spiritual liberation within Sikhism?",
+    "choices": [
+      "Remembering the Divine Name",
+      "Meditating on the sacred hymns",
+      "Remembering that death is inevitable",
+      "Meditating on the goodness of the created world"
+    ],
+    "answer_idx": 0,
+    "answer_text": "Remembering the Divine Name"
+  },
+  {
+    "qid": "mmlu_world_religions_0059",
+    "subject": "world_religions",
+    "question": "Which is one of the most fundamental themes of Japanese culture and civilization?",
+    "choices": [
+      "God is eternal and merciful to those who offer worship",
+      "Humans can align themselves with life energy through worship of kami",
+      "Justice will be the final outcome in the next world",
+      "Power and force are the most divine attributes"
+    ],
+    "answer_idx": 0,
+    "answer_text": "God is eternal and merciful to those who offer worship"
+  },
+  {
+    "qid": "mmlu_world_religions_0073",
+    "subject": "world_religions",
+    "question": "The central prayer in Jainism is known by which of the following names?",
+    "choices": [
+      "Namokar Mantra",
+      "The Liberation Mantra",
+      "Ahimsa",
+      "Archaryas"
+    ],
+    "answer_idx": 0,
+    "answer_text": "Namokar Mantra"
+  },
+  {
+    "qid": "mmlu_world_religions_0099",
+    "subject": "world_religions",
+    "question": " Self-sacrifice is an important theme for which Buddhist thinker?",
+    "choices": [
+      "Thich Nhat Hanh",
+      "The Dalai Lama",
+      "Daisetsu T. Suzuki",
+      "Shaku Soyen"
+    ],
+    "answer_idx": 0,
+    "answer_text": "Thich Nhat Hanh"
+  },
+  {
+    "qid": "mmlu_world_religions_0162",
+    "subject": "world_religions",
+    "question": "The \"Flower Sermon\" is associated with which form of Buddhism?",
+    "choices": [
+      "Theravada",
+      "Chan-Zen",
+      "Pure Land",
+      "Yogicara"
+    ],
+    "answer_idx": 1,
+    "answer_text": "Chan-Zen"
+  },
+  {
+    "qid": "mmlu_world_religions_0158",
+    "subject": "world_religions",
+    "question": "What is seen by Europeans, and many Muslims, as the symbol of Islam?",
+    "choices": [
+      "The Hijab",
+      "The Crescent",
+      "The Minaret",
+      "The Qur'an"
+    ],
+    "answer_idx": 1,
+    "answer_text": "The Crescent"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "dataset": "rajpurkar/squad (v1.1)",
+  "split": "validation",
+  "seed": 42,
+  "counts": {
+    "corpus_documents": 2067,
+    "eval": 500,
+    "tuning": 50,
+    "ragas": 150,
+    "dropped_questions": 0
+  },
+  "created": "2026-08-22T14:29:53"
+}

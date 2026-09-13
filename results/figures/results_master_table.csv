@@ -1,0 +1,5 @@
+config,SQuAD R@3,SQuAD R@10,MMLU acc,SQuAD faith,MMLU faith,SQuAD rel,MMLU rel
+fixed,0.816,0.906,0.754,0.731,0.42,0.603,0.482
+overlapping,0.83,0.912,0.758,0.776,0.455,0.612,0.486
+semantic,0.83,0.916,0.75,0.769,0.451,0.616,0.499
+framework,0.71,0.782,0.736,0.703,0.442,0.574,0.478

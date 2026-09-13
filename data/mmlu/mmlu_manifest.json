@@ -1,0 +1,44 @@
+{
+  "dataset": "cais/mmlu (all, test split)",
+  "seed": 42,
+  "subjects": [
+    "anatomy",
+    "astronomy",
+    "clinical_knowledge",
+    "college_biology",
+    "global_facts",
+    "high_school_biology",
+    "high_school_geography",
+    "high_school_us_history",
+    "high_school_world_history",
+    "jurisprudence",
+    "medical_genetics",
+    "nutrition",
+    "prehistory",
+    "sociology",
+    "world_religions"
+  ],
+  "counts": {
+    "eval": 500,
+    "tuning": 50,
+    "ragas": 150
+  },
+  "per_subject_eval": {
+    "anatomy": 34,
+    "astronomy": 34,
+    "clinical_knowledge": 34,
+    "college_biology": 34,
+    "global_facts": 34,
+    "high_school_biology": 33,
+    "high_school_geography": 33,
+    "high_school_us_history": 33,
+    "high_school_world_history": 33,
+    "jurisprudence": 33,
+    "medical_genetics": 33,
+    "nutrition": 33,
+    "prehistory": 33,
+    "sociology": 33,
+    "world_religions": 33
+  },
+  "created": "2026-08-22T14:30:11"
+}
